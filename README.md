@@ -31,3 +31,18 @@
 | Keynote: Crossing the River by Feeling the Stones - Simon Wardley, Researcher, Leading Edge Forum | [Slides](https://schd.ws/hosted_files/kccnceu18/e4/Simon%20Wardley%20-%20Keynote.pdf)|[Video](https://www.youtube.com/watch?v=xlNYYy8pzB4)|
 | Keynote: Closing Remarks – Kelsey Hightower, Kubernetes Community Member, Google & Liz Rice, Technology Evangelist, Aqua Security | [Slides]()|[Video](https://www.youtube.com/watch?v=ehXiPfJR_3E&t=33s)|
 
+## App/Dev
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | [Slides] |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4) |
+| How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo) |
+| How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo)|
+
+
+
+
+
+
+
+
