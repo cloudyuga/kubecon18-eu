@@ -93,8 +93,8 @@
 | ------------- |:-------------:| -----:|
 | FD.io Mini-Summit | Slides |[Video](https://www.youtube.com/watch?v=846GvDUmLro&list=PLWHpG2-3ZXXv-TDgybb_jDvTu_B4Xb2nY) |
 | Google Kubernetes Engine Hands-on Workshop | Slides | Video |
-| Kubernetes the AWSome Way! |||
-| Google Kubernetes Engine Hands-on Workshop |||
+| Kubernetes the AWSome Way! |Slides|Video|
+| Google Kubernetes Engine Hands-on Workshop |Slides|Video|
 | Containers, Kubernetes and OpenShift Hands-on Training: Morning Workshop | Slides | Video |
 | Kubernetes the AWSome Way! Managing Data in Cloud Native and Data Science: A Hackathon presented by Dotmesh and Red Hat | Slides | Video |
 | Container Troubleshooting Workshop with Sysdig Docker and Kubernetes Workshop Hands-on with Istio on Kubernetes Kubernetes Workshop with VMware | Slides | Video |
@@ -105,7 +105,8 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/19/Higher-Order%20Deployments.pdf) |[Video](https://www.youtube.com/watch?v=5VGJOW4QA3Q) |
+| Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/19/Higher-Order%20Deployments.pdf) | [Video](https://www.youtube.com/watch?v=5VGJOW4QA3Q&t=3s)
+| Google Kubernetes Engine Hands-on Workshop | Slides | Video |
 | Writing Kube Controllers for Everyone - Maciej Szulik, Red Hat (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/79/Writing%20kube%20controllers%20for%20everyone.pdf) |[Video](https://www.youtube.com/watch?v=AUNPLQVxvmw)|
 | Kubernetes-style APIs of the Future - Daniel Smith, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/Kubernetes-style%20APIs%20of%20the%20future%20draft%205.pdf)|[Video](https://www.youtube.com/watch?v=S2U8GNHewpk)|
 | Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk, Rancher Labs, Inc. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/a8/kubecon2018.pdf) |[Video](https://www.youtube.com/watch?v=7wdUa4Ulwxg)|
@@ -117,4 +118,19 @@
 | Controllers: Lambda Functions for Extending your Infrastructure - Ross Guarino & Terin Stock, Cloudflare (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/07/KubeCon%20Controller%20Presentation.pdf)| [Video](https://www.youtube.com/watch?v=TM-2GgQ6Q2A)|
 | Everything you Need to Know about Using GPUs with Kubernetes - Rohit Agarwal, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c2/Everything%20you%20need%20to%20know%20about%20using%20GPUs%20with%20Kubernetes.pdf)|[Video](https://www.youtube.com/watch?v=KplFFvj3XRk)|
 | Building a Fault-Tolerant Custom Resources Controller on Kubernetes - Morgan Bauer & Srinivas Brahmaroutu, IBM Corp. (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/3b/CRDDeployments.pdf)|[Video](https://www.youtube.com/watch?v=v2gAcKKDf9Y)|
+
+## Deep Dives for Projects/SIGs/Working Groups
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| AWS / kops Deep Dive / Hacking Session – Justin Santa Barbara, FathomDB (Intermediate Skill Level)  | Slides | Video |
+| CNCF: CloudEvents Working Group F2F – Doug Davis, IBM (Intermediate Skill Level) | Slides | Video |
+| SIG Apps Deep Dive – Janet Kuo & Kenneth Owens, Google (Intermediate Skill Level) ||[Video](https://www.youtube.com/watch?v=nN3MuZ6_WsA)|
+| Jaeger Project Deep Dive - Juraci Kröhling, Red Hat (Intermediate Skill Level) |  [Slides](https://schd.ws/hosted_files/kccnceu18/18/jaeger-deep-dive.pdf) | [Video](https://www.youtube.com/watch?v=tFZAHWl8y_I)|
+| SIG Scheduling Deep Dive – Bobby Salamat & Jonathan Basseri, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4a/KubeCon%20Europe%202018%20-%20SIG%20Scheduling%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=_fja_lLFpfc) |
+| SIG Multi-Cluster Deep Dive – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Intermediate Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=q27rbaX5Jis) |
+| Prometheus Deep Dive – Julius Volz, Prometheus, & Max Inden, Red Hat (Intermediate Skill Level) Resource Management WG Deep Dive – Vishnu Kannan, Google (Intermediate Skill Level) SIG Service-Catalog Deep Dive – Michael Kibbe, Google; Morgan Bauer & Doug Davis, IBM (Intermediate Skill Level) SPIFFE Deep Dive - Neel Shah, VMware; Andrew Jessup & Emiliano Berenbaum, Scytale, Inc., (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/cncf-eu-spiffe-deep_dive-kerberos_attestor.pdf)||
+
+
+
 
