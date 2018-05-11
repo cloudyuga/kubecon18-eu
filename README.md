@@ -163,7 +163,8 @@
 | Kubernetes Conformance Deep Dive – William Denniss, Google; Srinivas R Brahmaroutu, Doug Davis & Brad Topol, IBM (Intermediate Skill Level) | Slides | Video |
 | OpenStack SIG Deep Dive – Chris Hoge, OpenStack Foundation & David Lyle, Intel (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=l03heU_uG1s) |
 | Source2Image Deep Dive – Ben Parees, Red Hat & Matt Moore, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9e/KubeCon%20Build%20Deep%20Dive%20Session%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=AUx2e3BqBU8) |
-
+| Fluentd / Fluent Bit Deep Dive – Eduardo Silva & Masahiro Nakagawa, Treasure Data (Intermediate Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=TqW-b60AiNk) |
+| SIG Autoscaling Deep Dive – Marcin Wielgus, Google & Solly Ross, Red Hat (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=s2RKAYm9oJg)|
 
 
 
