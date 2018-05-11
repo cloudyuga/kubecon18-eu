@@ -125,12 +125,16 @@
 | ------------- |:-------------:| -----:|
 | AWS / kops Deep Dive / Hacking Session – Justin Santa Barbara, FathomDB (Intermediate Skill Level)  | Slides | Video |
 | CNCF: CloudEvents Working Group F2F – Doug Davis, IBM (Intermediate Skill Level) | Slides | Video |
-| SIG Apps Deep Dive – Janet Kuo & Kenneth Owens, Google (Intermediate Skill Level) ||[Video](https://www.youtube.com/watch?v=nN3MuZ6_WsA)|
+| SIG Apps Deep Dive – Janet Kuo & Kenneth Owens, Google (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=nN3MuZ6_WsA)|
 | Jaeger Project Deep Dive - Juraci Kröhling, Red Hat (Intermediate Skill Level) |  [Slides](https://schd.ws/hosted_files/kccnceu18/18/jaeger-deep-dive.pdf) | [Video](https://www.youtube.com/watch?v=tFZAHWl8y_I)|
 | SIG Scheduling Deep Dive – Bobby Salamat & Jonathan Basseri, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4a/KubeCon%20Europe%202018%20-%20SIG%20Scheduling%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=_fja_lLFpfc) |
-| SIG Multi-Cluster Deep Dive – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Intermediate Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=q27rbaX5Jis) |
-| Prometheus Deep Dive – Julius Volz, Prometheus, & Max Inden, Red Hat (Intermediate Skill Level) Resource Management WG Deep Dive – Vishnu Kannan, Google (Intermediate Skill Level) SIG Service-Catalog Deep Dive – Michael Kibbe, Google; Morgan Bauer & Doug Davis, IBM (Intermediate Skill Level) SPIFFE Deep Dive - Neel Shah, VMware; Andrew Jessup & Emiliano Berenbaum, Scytale, Inc., (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/cncf-eu-spiffe-deep_dive-kerberos_attestor.pdf)||
-
-
-
+| SIG Multi-Cluster Deep Dive – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=q27rbaX5Jis) |
+| Prometheus Deep Dive – Julius Volz, Prometheus, & Max Inden, Red Hat (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=UAAT0tRmXP8)
+| Resource Management WG Deep Dive – Vishnu Kannan, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=Oielqj7wIng) 
+| SIG Service-Catalog Deep Dive – Michael Kibbe, Google; Morgan Bauer & Doug Davis, IBM (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/49/SvcCat-DeepDive-Kibbe-Bauer.pdf) |[Video](https://www.youtube.com/watch?v=knKSSKMkdHY)|
+| SPIFFE Deep Dive - Neel Shah, VMware; Andrew Jessup & Emiliano Berenbaum, Scytale, Inc., (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/cncf-eu-spiffe-deep_dive-kerberos_attestor.pdf)|[Video](https://www.youtube.com/watch?v=sXwFB34BBrM)|
+| Cloud Native Landscape Deep Dive – Dan Kohn, Cloud Native Computing Foundation (Intermediate Skill Level) | [Slides]()| Video |
+| Kubeflow Deep Dive – David Aronchick & Jeremy Lewi, Google (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/d4/Kubeflow_Deep_Dive.pdf)| [Video](https://www.youtube.com/watch?v=86GD1VzSnks)
+| SIG Contributor Experience Deep Dive – Paris Pittman, Google & Tim Pepper, VMware (Intermediate Skill Level) |[Slides]() |[Video](https://schd.ws/hosted_files/kccnceu18/65/KubeCon%20EU%202018%20SIG-ContribX%20Deep%20Dive_%20Developer%20Guide.pdf) |
+| Storage WG Deep Dive – Ben Hindman, Mesosphere; Clint Kitson, VMware & Quinton Hoole, Huawei (Intermediate Skill Level) |[]||
 
