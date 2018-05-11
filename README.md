@@ -184,3 +184,18 @@
 | Kubernetes Advanced Scheduling — For Heating Showers? - Ad van der Veer & Boris Mattijssen, Nerdalize B.V. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4e/KubeCon%202018%20-%20Advanced%20Scheduling%20for%20Heating%20Shows.pdf) | [Video](https://www.youtube.com/watch?v=q8MFm2jwXpA)|
 | Why Running kubelet on Your Vacuum Robot Is (Not) a Good Idea - Christian Simon, Jetstack (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/Kubecon%20Copenhagen%202018%20-%20Why%20Running%20kubelet%20on%20your%20Vacuum%20Robot%20is%20%28not%29%20a%20Good%20Idea.pdf) | [Video](https://www.youtube.com/watch?v=ea0UzDpk6PE) |
 | Building a PaaS for Robotics with Kubernetes - Dhananajay Sathe, Rapyuta Robotics (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9b/cncf_kubecon_2018_dsathe_v3.pdf)|[Video](https://www.youtube.com/watch?v=qMlgVr6qqzc)|
+
+## Intros for Projects/SIGs/Working Groups
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| gRPC Intro – Jayant Kolhe & Sree Kuchibhotla, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6b/gRPC%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) | 
+| Kubeflow Intro – Michał Jastrzębski & Ala Raddaoui, Intel (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9f/kubeflow-intro.pdf) | [Video](https://www.youtube.com/watch?v=NrDpQks0e98) | 
+| SIG Multi-Cluster Intro – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=vGZo5DaThQU) |
+| Storage WG Intro – Ben Hindman, Mesosphere, Clint Kitson, VMware & Quinton Hoole, Huawei (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/2b/KubeConEU18%20-%20SWG%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=9Vt1B4vBvy8) |
+| Envoy Project Intro – Matt Klein & Jose Nino, Lyft (Any Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=WJBn5QZDnDo) |
+| Fluentd Project Intro – Eduardo Silva & Masahiro Nakagawa, Treasure Data (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e3/fluentd-intro-kubecon-2018.pdf)| [Video](https://www.youtube.com/watch?v=BtGOTIkxnGE) |
+| SAFE WG Intro – Jeyappragash J J, padme.io, & Ray Colline, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=DRtl8wK9FwE) | 
+| Scalability Intro – Shyam Jeedigunta, Google & Bob Wise, AWS (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=8cJ-zaLOVXc)|
+| SIG CLI Intro - Phil Wittrock & Mengqi Yu, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ee/SIG%20CLI%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=ak95fTtqMNU) |
+| SIG Cluster Lifecycle Intro – Justin Santa Barbara, FathomDB & Lucas Käldström (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/93/KubeCon%20Copenhagen%20SIG%20Cluster%20Lifecycle%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=GmD1KYsRD4Q)|
