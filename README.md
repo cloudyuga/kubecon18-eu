@@ -60,4 +60,19 @@
 |OCI BoF - Alban Crequy, Kinvolk & Chris Aniszczyk, CNCF (Any Skill Level)|Slides|[Video](https://www.youtube.com/watch?v=4Kna9fjWmHk)|
 | Panel: Kubernetes Office Hours Live! - Moderated by Jorge Castro, Heptio Inc. and Ilya Dmitrichenko, Weaveworks (Any Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=M4L1nBaGhXI)|
 | CI/CD BoF: Delivering Quality Quickly - Brice Fernandes & Marc Carré, Weaveworks (Any Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=EheNmDFP19Q)|
-|Edge Computing and Kubernetes BOF - Matthew Caulfield, Cisco (Any Skill Level)|||
+|Edge Computing and Kubernetes BOF - Matthew Caulfield, Cisco (Any Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/eb/kc_edge_bof.pdf)|[Video](https://www.youtube.com/watch?v=w_BvR8hZYe4)|
+|Istio Multi-Cluster Mesh Expansion BOF - Sven Mawson, Google (Any Skill Level)|[Slides]()|[Video](https://www.youtube.com/watch?v=_seY39zvgA4)|
+
+## Case Studies
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/d7/kubecon-emperors-new-shoes.pdf) |Video |
+| Kubernetes on Supporting $8 Trillion Card Payments in China - Xin Zhang & Deyuan Deng, Caicloud (Any Skill Level) | [Slides]()|[Video](https://www.youtube.com/watch?v=OS5DKWffn9s)|
+| Kubernetes and Taxes: Lessons Learned at the Norwegian Tax Administration - A Production Case Study - Bjarte S. Karlsen, The Norwegian Tax Administration (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6f/Kubernetes%20and%20Taxes.pdf)|[Video](https://www.youtube.com/watch?v=VZbDJXUwLbg)|
+| Write Less Code, Use More Tools: How we Orchestrate 7M+ Builds/Month with Kubernetes + Nomad - Danielle Tomlinson, CircleCI (Any Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=b8NQO_vFAYo)|
+|Building a Cloud Native Culture in an Enterprise - Deep Kapadia & Tony Li, The New York Times Company (Any Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/9a/KubeCon%20Europe%202018.pdf)|[Video](https://www.youtube.com/watch?v=Tm4VfJtOHt8)|
+| From Data Centers to Cloud Native - Dave Zolotusky & James Wen, Spotify (Intermediate Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/e6/KubeCon%20EU%202018%20-%20Spotify%20-%20From%20Data%20Centers%20to%20Cloud%20Native.pdf)|[Video](https://www.youtube.com/watch?v=dpJAE3k04hc)|
+
+
+
