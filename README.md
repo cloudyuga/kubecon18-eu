@@ -136,5 +136,36 @@
 | Cloud Native Landscape Deep Dive – Dan Kohn, Cloud Native Computing Foundation (Intermediate Skill Level) | [Slides]()| Video |
 | Kubeflow Deep Dive – David Aronchick & Jeremy Lewi, Google (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/d4/Kubeflow_Deep_Dive.pdf)| [Video](https://www.youtube.com/watch?v=86GD1VzSnks)
 | SIG Contributor Experience Deep Dive – Paris Pittman, Google & Tim Pepper, VMware (Intermediate Skill Level) |[Slides]() |[Video](https://schd.ws/hosted_files/kccnceu18/65/KubeCon%20EU%202018%20SIG-ContribX%20Deep%20Dive_%20Developer%20Guide.pdf) |
-| Storage WG Deep Dive – Ben Hindman, Mesosphere; Clint Kitson, VMware & Quinton Hoole, Huawei (Intermediate Skill Level) |[]||
+| Storage WG Deep Dive – Ben Hindman, Mesosphere; Clint Kitson, VMware & Quinton Hoole, Huawei (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=Nks3qOx8YcI)|
+| gRPC Deep Dive: gRPC C-Core Architecture and Life of an RPC – Jayant Kolhe & Sree Kuchibhotla, Google (Intermediate Skill Level)| Slides| [Video](https://www.youtube.com/watch?v=S7WIYLcPS1Y)|
+| Kubernetes Policy WG Deep Dive - Zhipeng Huang, Huawei (Intermediate Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=SpCjXqDTCgU)| 
+| NATS Deep Dive – Colin Sullivan & Waldemar Quevedo, Synadia (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/e8/KubeCon%20EU%20-%20NATS%20Deep%20Dive.pdf) |[Video](https://www.youtube.com/watch?v=MAKYz8oPRyw)| 
+| rkt Deep Dive – Alban Crequy & Iago López Galeiras, Kinvolk (Intermediate Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=n9eCJ_zjrKg)|
+| Chaos Engineering WG Deep Dive – Sylvain Hellegouarch, ChaosIQ (Intermediate Skill Level)| [Slides](https://schd.ws/hosted_files/kccnceu18/8a/Automating%20Chaos%20Engineering%20with%20the%20Chaos%20Toolkit.odp) |[Video](https://www.youtube.com/watch?v=Q6e3N7trcFI)|
+| CNCF Cross-Cloud CI Deep Dive – Denver Williams, Cloud Native Computing Foundation & Taylor Carpenter, Vulk Coop (Intermediate Skill Level)| [Slides](https://schd.ws/hosted_files/kccnceu18/47/%5BKubeCon%202018%5D%20Cross-cloud%20CI%20Deep%20Dive%20slides.pdf) |[Video](https://www.youtube.com/watch?v=m-WK-pOs5TA)|
+| Open Policy Agent Deep Dive – Tim Hinrichs & Torin Sandall, Styra (Intermediate Skill Level)| [Slides](https://schd.ws/hosted_files/kccnceu18/da/Language%20Intro%20and%20Deep%20Dive.pdf) |[Video](https://www.youtube.com/watch?v=4mBJSIhs2xQ)|
+| Rook Deep Dive – Bassam Tabbara, Tony Allen & Jared Watts, Upbound (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b3/Rook%20Deep%20Dive.pdf) |[Video](https://www.youtube.com/watch?v=yknGKzJw7_k)|
+| SIG CLI Deep Dive - Phil Wittrock, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/17/SIG%20CLI%20Deepdive%20%281%29.pdf) |[Video](https://www.youtube.com/watch?v=M2n08jsRRYs)
+| SIG Node Deep Dive – Dawn Chen, Google (Intermediate Skill Level)| Slides |[Video](https://www.youtube.com/watch?v=I4AchBfe49U)|
+| SAFE WG Deep Dive – Ray Colline, Google (Intermediate Skill Level) | Slides| [Video](https://www.youtube.com/watch?v=RTYJ-yggDxs)|
+| SIG Release Deep Dive – Jaice Singer DuMars & Caleb Miles, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=nJEzNLHsS1s)|
+| TUF / Notary Deep Dive – David Lawrence, Docker & Justin Cappos, NYU, TUF (Intermediate Skill Level)| Slides | [Video](https://www.youtube.com/watch?v=_WFLEtDCMxA) |
+| Envoy Deep Dive – Matt Klein, Lyft (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=odRR94jhNbU) | 
+| Multi-Tenancy WG Deep Dive – David Oppenheimer, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c0/kubecon-eu-2018-multitenancy-deep-dive.pdf) | [Video](https://www.youtube.com/watch?v=Vi3ptlNjZJE) | 
+| OpenTracing Project Deep Dive – Priyanka Sharma & Ted Young, LightStep (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ySR_FVNX4bQ) | 
+| SIG Instrumentation Deep Dive – Frederic Branczyk, CoreOS & Piotr Szczesniak, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4a/SIG%20Instrumentation%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=SzLLzKWH2Gk) | 
+| SIG Testing Deep Dive – Sen Lu, Google & Cole Wagner (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/60/Sig-testing%20Deep%20Dive%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=M32NIHRKaOI) | 
+| Linkerd Deep Dive – George Miranda & Thomas Rampelberg (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=j0Kosjecx70) |
+| SIG API Machinery Deep Dive – Stefan Schimanski, Red Hat (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/4b/Sig%20API%20Machinery%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=XsFH7OEIIvI) |
+| SIG Cluster Lifecycle: kubeadm Deep Dive – Alexander Kanevskiy, Intel; Timothy St. Clair, Heptio; Luke Marsden, dotmesh (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/87/kubeadm%20deep%20dive%20-%2020180504.pdf) | [Video](https://www.youtube.com/watch?v=3w5sZSxh4RI) |
+| containerd Deep Dive – Stephen Day, Docker (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6e/containerd%20deep%20dive%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=3AynH3c0F8M) |
+| CoreDNS Deep Dive – Miek Gieben, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ZnW3k6m5AY8) |
+| Kubernetes Conformance Deep Dive – William Denniss, Google; Srinivas R Brahmaroutu, Doug Davis & Brad Topol, IBM (Intermediate Skill Level) | Slides | Video |
+| OpenStack SIG Deep Dive – Chris Hoge, OpenStack Foundation & David Lyle, Intel (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=l03heU_uG1s) |
+| Source2Image Deep Dive – Ben Parees, Red Hat & Matt Moore, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9e/KubeCon%20Build%20Deep%20Dive%20Session%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=AUx2e3BqBU8) |
+
+
+
+
+
 
