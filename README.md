@@ -167,6 +167,20 @@
 | SIG Autoscaling Deep Dive – Marcin Wielgus, Google & Solly Ross, Red Hat (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=s2RKAYm9oJg)|
 
 
+## gRPC
 
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Making Big Data Processing Portable. The Story of Apache Beam and gRPC - Ismaël Mejía, Talend (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/35/Making%20Big%20Data%20Processing%20Portable.%20The%20story%20of%20Apache%20Beam%20and%20gRPC%20-%20Ismael%20Mejia%20%28iemejia%29.pdf) | [Video](https://www.youtube.com/watch?v=7iALa6sFgb8) |
+| gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6a/grpc_loadbalancing_kubernetes_slides.pdf) | [Video](https://www.youtube.com/watch?v=F2znfxn_5Hg) |
+| A Brokerless REST Interface for gRPC Services - Roman Zimine, Turbonomic (Intermediate Skill Level) (Slides Attached) |  [Slides](https://schd.ws/hosted_files/kccnceu18/d8/Brokerless_REST_for_gRPC.pdf) | [Video](https://www.youtube.com/watch?v=eQvrr9U4I8o)|
+| Efficient IoT with Protocol Buffers and gRPC - Vladimir Vivien, {code} (Beginner Skill Level) (Slides Attached)  |[Slides](https://schd.ws/hosted_files/kccnceu18/0a/KubeCon%20EU%202018.pdf)| [Video](https://www.youtube.com/watch?v=c9z_o5lu0dI)|
 
+## Hardware Hacking 
 
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Kubernetes as an Abstraction Layer for a Connected Home - Scott Nichols, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fb/Kubernetes%20as%20an%20Abstraction%20Layer%20for%20a%20Connected%20Home.pdf)| [Video](https://www.youtube.com/watch?v=l9g3-cnaBR4) |
+| Kubernetes Advanced Scheduling — For Heating Showers? - Ad van der Veer & Boris Mattijssen, Nerdalize B.V. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4e/KubeCon%202018%20-%20Advanced%20Scheduling%20for%20Heating%20Shows.pdf) | [Video](https://www.youtube.com/watch?v=q8MFm2jwXpA)|
+| Why Running kubelet on Your Vacuum Robot Is (Not) a Good Idea - Christian Simon, Jetstack (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/Kubecon%20Copenhagen%202018%20-%20Why%20Running%20kubelet%20on%20your%20Vacuum%20Robot%20is%20%28not%29%20a%20Good%20Idea.pdf) | [Video](https://www.youtube.com/watch?v=ea0UzDpk6PE) |
+| Building a PaaS for Robotics with Kubernetes - Dhananajay Sathe, Rapyuta Robotics (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9b/cncf_kubecon_2018_dsathe_v3.pdf)|[Video](https://www.youtube.com/watch?v=qMlgVr6qqzc)|
