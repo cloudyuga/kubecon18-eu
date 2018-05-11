@@ -35,14 +35,14 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | [Slides] |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4) |
+| Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo)|
 | Habitat Builder: Cloud Native Application Automation - Elliott Davis & Fletcher Nichol, Chef.io (Habitat.sh) (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4f/Kubecon-2018-Habitat-Builder.pdf) |[Video](https://www.youtube.com/watch?v=5idV8kbyN8M)|
-| Why Do I Need Kubernetes When I Already Have Cloud Foundry? - Sanjay Patil, SAP (Beginner Skill Level) | [Slides]()|[Video](https://www.youtube.com/watch?v=KvfYtca74EI)|
+| Why Do I Need Kubernetes When I Already Have Cloud Foundry? - Sanjay Patil, SAP (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=KvfYtca74EI)|
 | Seamless Development Environments on Kubernetes using Telepresence - Ara Pulido, Bitnami (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b5/Telepresence_Kubeapps.pdf)|[Video](https://www.youtube.com/watch?v=8Dl8U-AbJN0)|
-| Panel Discussion: Containers in Enterprise Cloud Strategy: Pitfalls, Best Practices, and Predictions - Moderated by Anni Lai, Huawei (Intermediate Skill Level) | [Slides]() |[Video](https://www.youtube.com/watch?v=JXomJ5n3JAU)|
-|From PaaS to Kubernetes: Combining the Power of Kubernetes with the Most Innovative Features of PaaS - William Denniss, Google (Beginner Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=hLlGUSh_yAI)|
+| Panel Discussion: Containers in Enterprise Cloud Strategy: Pitfalls, Best Practices, and Predictions - Moderated by Anni Lai, Huawei (Intermediate Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=JXomJ5n3JAU)|
+|From PaaS to Kubernetes: Combining the Power of Kubernetes with the Most Innovative Features of PaaS - William Denniss, Google (Beginner Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=hLlGUSh_yAI)|
 
 
 
