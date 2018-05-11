@@ -42,9 +42,12 @@
 | Why Do I Need Kubernetes When I Already Have Cloud Foundry? - Sanjay Patil, SAP (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=KvfYtca74EI)|
 | Seamless Development Environments on Kubernetes using Telepresence - Ara Pulido, Bitnami (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b5/Telepresence_Kubeapps.pdf)|[Video](https://www.youtube.com/watch?v=8Dl8U-AbJN0)|
 | Panel Discussion: Containers in Enterprise Cloud Strategy: Pitfalls, Best Practices, and Predictions - Moderated by Anni Lai, Huawei (Intermediate Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=JXomJ5n3JAU)|
-|From PaaS to Kubernetes: Combining the Power of Kubernetes with the Most Innovative Features of PaaS - William Denniss, Google (Beginner Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=hLlGUSh_yAI)|
-
-
-
+| From PaaS to Kubernetes: Combining the Power of Kubernetes with the Most Innovative Features of PaaS - William Denniss, Google (Beginner Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=hLlGUSh_yAI)|
+| Happy Helming with Service Catalog - Jeremy Rickard, Microsoft (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/1e/happy-helming-with-service-catalog.pdf)|[Video](https://www.youtube.com/watch?v=SuicCBXJRPg)|
+| Challenges to Writing Cloud Native Applications - Vallery Lancey, Checkfront (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/68/Challenges%20To%20Writing%20Cloud%20Native%20Applications%20%28KubeCon%20EU%29.pdf)|[Video](https://www.youtube.com/watch?v=di6oFceM_CQ)|
+| Building Applications to Increase Kubernetes Adoption, and Make Life Easier Once You've Adopted It - Kate Kuchin, Heptio (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/8e/KATEKUCHIN%20KUBECONEU.pdf)|[Video](https://www.youtube.com/watch?v=X2icFkQMg60)|
+| Building Event-Driven Pipelines with Brigade - Brian Redmond, Microsoft (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/fe/KubeCon%202018%20Brian%20Redmond.pdf)|[Video](https://www.youtube.com/watch?v=yhfc0FKdFc8)|
+| YAML is for Computers. ksonnet is for Humans - Bryan Liles, Heptio (Any Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=FjdS21McgpE)|
+| Panel Discussion: Modern App Security Requires Containers – Moderated by Sean Michael Kerner, eWeek (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=6bwt9SMLnmg)|
 
 
