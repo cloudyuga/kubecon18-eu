@@ -100,3 +100,21 @@
 | Container Troubleshooting Workshop with Sysdig Docker and Kubernetes Workshop Hands-on with Istio on Kubernetes Kubernetes Workshop with VMware | Slides | Video |
 | Containers, Kubernetes and OpenShift Hands-on Training: Afternoon Workshop | Slides | Video |
 | Red Hat OpenShift Commons Machine Learning Reception | Slides | Video |
+
+## Customizing & Extending Kubernetes
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/19/Higher-Order%20Deployments.pdf) |[Video](https://www.youtube.com/watch?v=5VGJOW4QA3Q) |
+| Writing Kube Controllers for Everyone - Maciej Szulik, Red Hat (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/79/Writing%20kube%20controllers%20for%20everyone.pdf) |[Video](https://www.youtube.com/watch?v=AUNPLQVxvmw)|
+| Kubernetes-style APIs of the Future - Daniel Smith, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/Kubernetes-style%20APIs%20of%20the%20future%20draft%205.pdf)|[Video](https://www.youtube.com/watch?v=S2U8GNHewpk)|
+| Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk, Rancher Labs, Inc. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/a8/kubecon2018.pdf) |[Video](https://www.youtube.com/watch?v=7wdUa4Ulwxg)|
+| Building a Kubernetes Scheduler using Custom Metrics - Mateo Burillo, Sysdig (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/0e/KubeConEU2018_custom_kubernetes_scheduler.pdf)|[Video](https://www.youtube.com/watch?v=4TaHQgG9wEg)|
+| Horizontal Pod Autoscaler Reloaded - Scale on Custom Metrics - Maciej Pytel, Google & Solly Ross, Red Hat (Intermediate Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=1xm_ccAYO90)|
+| Using kubectl to Run your End-to-End Tests - Amit Kumar Das, MayaData & Uday Kiran, CloudByte (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/3b/e2e-with-kubectl.pdf)|[Video](https://www.youtube.com/watch?v=YU9J4KH8X14)|
+| Monitoring: Follow the Data from the Darkest Corners of Kubernetes - Piotr Szczesniak, Google & Frederic Branczyk, CoreOS (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/37/Monitoring_%20Follow%20the%20Data%20from%20the%20Darkest%20Corners%20of%20Kubernetes.pdf)|[Video](https://www.youtube.com/watch?v=1xm_ccAYO90)|
+| Kubectl Plugins 101 - Jonathan Berkhahn, IBM & Carolyn Van Slyck, Microsoft (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/ff/Kubectl%20Plugins%20101%20-%20KubeCon%20Europe%202018.pdf)|[Video](https://www.youtube.com/watch?v=PZmTPRRfW5M)|
+| Controllers: Lambda Functions for Extending your Infrastructure - Ross Guarino & Terin Stock, Cloudflare (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/07/KubeCon%20Controller%20Presentation.pdf)| [Video](https://www.youtube.com/watch?v=TM-2GgQ6Q2A)|
+| Everything you Need to Know about Using GPUs with Kubernetes - Rohit Agarwal, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c2/Everything%20you%20need%20to%20know%20about%20using%20GPUs%20with%20Kubernetes.pdf)|[Video](https://www.youtube.com/watch?v=KplFFvj3XRk)|
+| Building a Fault-Tolerant Custom Resources Controller on Kubernetes - Morgan Bauer & Srinivas Brahmaroutu, IBM Corp. (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/3b/CRDDeployments.pdf)|[Video](https://www.youtube.com/watch?v=v2gAcKKDf9Y)|
+
