@@ -75,4 +75,14 @@
 | From Data Centers to Cloud Native - Dave Zolotusky & James Wen, Spotify (Intermediate Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/e6/KubeCon%20EU%202018%20-%20Spotify%20-%20From%20Data%20Centers%20to%20Cloud%20Native.pdf)|[Video](https://www.youtube.com/watch?v=dpJAE3k04hc)|
 
 
+## CI/CD
 
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Git-push Workflows (using git hooks) for Deploying Applications on Kubernetes - Tanmai Gopal & Vamshi Surabhi Rao, Hasura (Intermediate Skill Level) (Slides Attached) |[Slides](https://schd.ws/hosted_files/kccnceu18/07/Git%20push%20workflows%20on%20Kubernetes%20-%20Gitkube%20-%20Hasura%20-%20Tanmai%20Gopal.pdf)|[Video](https://www.youtube.com/watch?v=gDGT4Gf_4JM)|
+| Continuous Delivery Meets Custom Kubernetes Controller: A Declarative Configuration Approach to CI/CD - Suneeta Mall & Simon Cochrane, Nearmap (Intermediate Skill Level) (Slides Attached) |[Slides](https://schd.ws/hosted_files/kccnceu18/66/Teaser-Continuous%20Delivery%20Meets%20Custom%20Kubernetes%20Controller.pdf)|[Video](https://www.youtube.com/watch?v=kBS_Wd41R8k)|
+| Building Docker Images without Docker - Matt Rickard, Google (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/c9/Building%20Docker%20Images%20without%20Docker.pdf)|[Video](https://www.youtube.com/watch?v=qhykcC94ukg)|
+| Continuously Deliver your Kubernetes Infrastructure - Mikkel Larsen, Zalando SE (Advanced Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/18/2018-05-02%20Continuously%20Deliver%20your%20Kubernetes%20Infrastructure%20-%20KubeCon%202018%20Copenhagen.pdf)|[Video](https://www.youtube.com/watch?v=1xHmCrd8Qn8)|
+| Experience Report - Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker - Gard Rimestad, Schibsted & Øyvind Ingebrigtsen Øvergaard, Finn.no (Intermediate Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/26/Experience%20report%20-%20Evolving%20a%20continuous%20delivery%20workflow%20to%20Kubernetes%20using%20Spinnaker.pdf)|[Video]
+(https://www.youtube.com/watch?v=cen3dULhE1E)|
+| Jenkins X: Easy CI/CD for Kubernetes - James Strachan, CloudBees (Intermediate Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=uHe7R_iZSLU)|
