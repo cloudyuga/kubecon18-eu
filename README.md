@@ -86,3 +86,17 @@
 | Experience Report - Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker - Gard Rimestad, Schibsted & Øyvind Ingebrigtsen Øvergaard, Finn.no (Intermediate Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/26/Experience%20report%20-%20Evolving%20a%20continuous%20delivery%20workflow%20to%20Kubernetes%20using%20Spinnaker.pdf)|[Video]
 (https://www.youtube.com/watch?v=cen3dULhE1E)|
 | Jenkins X: Easy CI/CD for Kubernetes - James Strachan, CloudBees (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=uHe7R_iZSLU)|
+
+## Co-located Event
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| FD.io Mini-Summit | Slides |[Video](https://www.youtube.com/watch?v=846GvDUmLro&list=PLWHpG2-3ZXXv-TDgybb_jDvTu_B4Xb2nY) |
+| Google Kubernetes Engine Hands-on Workshop | Slides | Video |
+| Kubernetes the AWSome Way! |||
+| Google Kubernetes Engine Hands-on Workshop |||
+| Containers, Kubernetes and OpenShift Hands-on Training: Morning Workshop | Slides | Video |
+| Kubernetes the AWSome Way! Managing Data in Cloud Native and Data Science: A Hackathon presented by Dotmesh and Red Hat | Slides | Video |
+| Container Troubleshooting Workshop with Sysdig Docker and Kubernetes Workshop Hands-on with Istio on Kubernetes Kubernetes Workshop with VMware | Slides | Video |
+| Containers, Kubernetes and OpenShift Hands-on Training: Afternoon Workshop | Slides | Video |
+| Red Hat OpenShift Commons Machine Learning Reception | Slides | Video |
