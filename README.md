@@ -85,4 +85,4 @@
 | Continuously Deliver your Kubernetes Infrastructure - Mikkel Larsen, Zalando SE (Advanced Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/18/2018-05-02%20Continuously%20Deliver%20your%20Kubernetes%20Infrastructure%20-%20KubeCon%202018%20Copenhagen.pdf)|[Video](https://www.youtube.com/watch?v=1xHmCrd8Qn8)|
 | Experience Report - Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker - Gard Rimestad, Schibsted & Øyvind Ingebrigtsen Øvergaard, Finn.no (Intermediate Skill Level)|[Slides](https://schd.ws/hosted_files/kccnceu18/26/Experience%20report%20-%20Evolving%20a%20continuous%20delivery%20workflow%20to%20Kubernetes%20using%20Spinnaker.pdf)|[Video]
 (https://www.youtube.com/watch?v=cen3dULhE1E)|
-| Jenkins X: Easy CI/CD for Kubernetes - James Strachan, CloudBees (Intermediate Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=uHe7R_iZSLU)|
+| Jenkins X: Easy CI/CD for Kubernetes - James Strachan, CloudBees (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=uHe7R_iZSLU)|
