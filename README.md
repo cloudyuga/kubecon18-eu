@@ -216,9 +216,23 @@
 | SIG Autoscaling Intro – Marcin Wielgus, Google, & Solly Ross, Red Hat (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=oJyjW8Vz314)|
 | SIG AWS Update - Justin Santa Barbara, FathomDB (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e1/Kubecon%20EU_%20sig-aws.pdf) | [Video](https://www.youtube.com/watch?v=yzWXuAZwJaw)|
 | SPIFFE Project Intro - Andrew Jessup & Emiliano Berenbaum, Scytale, Inc. (Any Skill Level)| Slides | [Video](https://www.youtube.com/watch?v=0LSaNrOabH4) |
-
-
-
+| CNCF Cross-Cloud CI Intro – Denver Williams, Cloud Native Computing Foundation, & Taylor Carpenter, Vulk Coop (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/86/%5BKubeCon%202018%5D%20Cross-cloud%20CI%20Intro%20slides.pdf) | [Video](https://www.youtube.com/watch?v=wb7aCAk1VFU)|
+| SIG Storage (K8s) Intro - Saad Ali, Google (Any Skill Level)| Slides | [Video](https://www.youtube.com/watch?v=GvrTl2T-Tts) |
+| Kubespray Intro – Antoine Legrand, Red Hat, & Matthew Mosesohn, Virtustream (Any Skill Level) | [Slides]()| [Video](https://www.youtube.com/watch?v=hSMGlnXE-Q8) |
+| rkt Intro – Alban Crequy & Iago López Galeiras, Kinvolk (Any Skill Level) | [Slides]((https://schd.ws/hosted_files/kccnceu18/ba/rkt-intro.pdf)) | [Video](https://www.youtube.com/watch?v=D8uMQDw4hVY)|
+| SIG Apps Intro – Janet Kuo & Kenneth Owens, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/2c/SIG%20Apps%20Introduction.pdf)| [Video](https://www.youtube.com/watch?v=fZ9Bf7iEekU)|
+| VMware SIG Intro – Fabio Rapposelli & Steve Wong, VMware (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/1c/KubeCon2018-VMware-SIG-deck.pdf)|[Video](https://www.youtube.com/watch?v=Zn8NekAMJzs) |
+| SIG Release Intro – Jaice Singer DuMars & Caleb Miles, Google (Any Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=3HZVVR2ukKI)|
+| CoreDNS Intro – Miek Gieben, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ZFEa2pDpvws)| 
+| Minikube Intro – Dan Lorenc, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=4x0CZmF_U5o)|
+| NATS Intro – Colin Sullivan & Waldemar Quevedo, Synadia (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e0/KubeCon%20EU%20NATS%20Intro%20v2.pdf) | [Video](https://www.youtube.com/watch?v=Y9bDY_oE80w) | 
+| Source2Image Intro – Ben Parees, Red Hat & Matt Moore, Google (Any Skill Level) | [Slides]((https://schd.ws/hosted_files/kccnceu18/15/KubeCon%20Build%20Intro%20Session.pdf) )| [Video](https://www.youtube.com/watch?v=fCV4dr_36cM)|
+| CNI Intro – Bryan Boreham, Weaveworks & Casey Callendrello, CoreOS (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=7CeYAIlUY6s) |
+| Linkerd Intro – Andrew Siegner & George Miranda, Buoyant.io (Any Skill Level) | [Slides]((https://schd.ws/hosted_files/kccnceu18/4e/Linkerd%20Intro.pdf)) | [Video](https://www.youtube.com/watch?v=VAcvFMRd27I) |
+| SIG PM Intro - Ihor Dvoretskyi, Cloud Native Computing Foundation & Aparna Sinha, Google (Any Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=Yj9IvSOC2I0) |
+| Envoy Project Intro – Matt Klein & Jose Nino, Lyft (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=RUPgiHqUAZg) |
+| kops Intro – Justin Santa Barbara, Google (Any Skill Level) | [Slides](https://www.youtube.com/watch?v=9CwkpEVDNMM) | [Video](https://schd.ws/hosted_files/kccnceu18/50/Kubecon%20EU_%20kops.pdf) |
+| WG App Def - Intro – Antoine Legrand, Red Hat & Gareth Rushgrove, Docker (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=I3BU9pkTgRE) |
 
 
 
