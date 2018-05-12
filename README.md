@@ -286,7 +286,22 @@
 | Declarative Multi-Cluster Monitoring with Prometheus - Matthias Loibl, Loodse & Frederic Branczyk, CoreOS (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d4/Declarative%20Multi-Cluster%20Monitoring%20with%20Prometheus.pdf) | [Video](https://www.youtube.com/watch?v=IpGfmmJ2hcw) |
 | Feeding Realworld Data into Prometheus Microservice Applications on Kubernetes - Burkhard Noltensmeier, teuto.net (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/realworld-prometheus8.pdf) | [Video](https://www.youtube.com/watch?v=1rwBeDVdjyY) |
 
+## Operations 
 
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Building cert-manager: Migrating Thousands of Users from kube-lego to use CRDs - James Munnelly, Jetstack (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=TuIycZeiNZM) |
+| Stories from the Playbook - Tina Zhang & Fred van den Driessche, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9a/Stories%20from%20the%20Playbook.pdf) | [Video](https://www.youtube.com/watch?v=N2JUGnwinbQ) |
+| 101 Ways to “Break and Recover” Kubernetes Cluster - Suresh Visvanathan & Nandhakumar Venkatachalam, Oath (Yahoo) (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fe/“Break%20and%20Recover”%20Kubernetes%20Cluster%20and%20Application.pdf) | [Video](https://www.youtube.com/watch?v=likHm-KHGWQ)|
+| Kubernetes Multi-Cluster Operations without Federation - Rob Szumski, CoreOS (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=zVOIk7nO_ts) |
+| Clusters as Cattle: How to Seamlessly Migrate Apps across Kubernetes Clusters - Andy Goldstein, Heptio (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/8c/Clusters%20as%20cattle.pdf) | [Video](https://www.youtube.com/watch?v=5kMz2oJgV0A)|
+| Kubernetes 101: DIY Workshop - Bridget Kromhout, Microsoft (Beginner Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=mYsp_cGY2O0)|
+| What Does “Production Ready” Really Mean for a Kubernetes Cluster? - Lucas Käldström, Individual (Advanced Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/00/What%20does%20“production%20ready”%20really%20mean%20for%20a%20Kubernetes%20cluster.pdf)| [Video](https://www.youtube.com/watch?v=EjSiZgGdRqk)| 
+| Cloudbursting with Kubernetes - Irfan Ur Rehman & Quinton Hoole, Huawei Technologies (Intermediate Skill Level)
+| [Slides](https://schd.ws/hosted_files/kccnceu18/01/Cloudbursting%20with%20Kubernetes.pdf) | [Video](https://www.youtube.com/watch?v=AGQL4ItB3NM) |
+| Introducing Amazon EKS - Brandon Chavis & Arun Gupta, AWS (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ad/Intro%20to%20EKS%20Kubecon%202018.pdf) | [Video](https://www.youtube.com/watch?v=FmubBIw_wSs) |
+| Inside Kubernetes Resource Management (QoS) – Mechanics and Lessons from the Field - Michael Gasch, VMware (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/33/Inside%20Kubernetes%20QoS%20M.%20Gasch%20KubeCon%20EU%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=8-apJyr2gi0) |
+| Building a Kubernetes on Bare-Metal Cluster to Serve Wikipedia - Alexandros Kosiaris & Giuseppe Lavagetto, Wikimedia Foundation (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d5/Wikipedia%20-%20Kubecon%202018.pdf) | [Video](https://www.youtube.com/watch?v=7rqvRwfZHF4) |
 
 
 
