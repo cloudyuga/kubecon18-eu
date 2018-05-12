@@ -189,7 +189,7 @@
 
 | Topic        | Presetation    | Video  |
 | ------------- |:-------------:| -----:|
-| gRPC Intro – Jayant Kolhe & Sree Kuchibhotla, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6b/gRPC%20Introduction.pdf)| [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) | 
+| gRPC Intro – Jayant Kolhe & Sree Kuchibhotla, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6b/gRPC%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) | 
 | Kubeflow Intro – Michał Jastrzębski & Ala Raddaoui, Intel (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/9f/kubeflow-intro.pdf)|[Video](https://www.youtube.com/watch?v=NrDpQks0e98)| 
 | SIG Multi-Cluster Intro – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=vGZo5DaThQU) |
 | Storage WG Intro – Ben Hindman, Mesosphere, Clint Kitson, VMware & Quinton Hoole, Huawei (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/2b/KubeConEU18%20-%20SWG%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=9Vt1B4vBvy8) |
