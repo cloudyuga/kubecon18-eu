@@ -187,8 +187,8 @@
 
 ## Intros for Projects/SIGs/Working Groups
 
-| Topic        | Presetation    | Video  |
-| ------------- |:-------------:| -----:|
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
 | gRPC Intro – Jayant Kolhe & Sree Kuchibhotla, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6b/gRPC%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) | 
 | Kubeflow Intro – Michał Jastrzębski & Ala Raddaoui, Intel (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/9f/kubeflow-intro.pdf)|[Video](https://www.youtube.com/watch?v=NrDpQks0e98)| 
 | SIG Multi-Cluster Intro – Christian Bell, Madhu C.S., & Nikhil Jindal, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=vGZo5DaThQU) |
@@ -203,7 +203,7 @@
 | Kubernetes Conformance WG Intro – William Denniss, Google (Any Skill Level) | Slides| [Video](https://www.youtube.com/watch?v=cImwp_826JU) |
 | Kubernetes Policy WG Intro – Zhipeng Huang, Huawei (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=YprD0zoWXX0)|
 | OpenTracing Project Intro – Priyanka Sharma & Ted Young, LightStep (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=_jCXx2BX7nI)|
-| SIG Contributor Experience Intro – Paris Pittman, Google & Elsie Phillips, CoreOS (Any Skill Level) |(https://schd.ws/hosted_files/kccnceu18/09/ContribEx%20KubeCon%20Update.pdf)| [Video](https://www.youtube.com/watch?v=e3VKszwIokk)|
+| SIG Contributor Experience Intro – Paris Pittman, Google & Elsie Phillips, CoreOS (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/09/ContribEx%20KubeCon%20Update.pdf)| [Video](https://www.youtube.com/watch?v=e3VKszwIokk)|
 | containerd Intro – Stephen Day, Docker (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/f5/containerd%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=I0xU6nxnZLY)|
 | Jaeger Project Intro - Juraci Kröhling, Red Hat (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/27/jaeger-project-intro.pdf) | [Video](https://www.youtube.com/watch?v=D7XakRQaEk0) |
 | OpenStack SIG Intro – Chris Hoge, OpenStack Foundation, & David Lyle, Intel (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ea/SIG-OpenStack%20Update.pdf) | [Video](https://www.youtube.com/watch?v=_A7G5cpU4Xw)|
