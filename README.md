@@ -249,3 +249,66 @@
 | Conquering a Kubeflow Kubernetes Cluster with ksonnet, Ark, and Sonobuoy - Kris Nova, Heptio & David Aronchick, Google (Intermediate Skill Level) | [Slides]()| [Video](https://www.youtube.com/watch?v=givpqZ2IchI) | 
 | Serving ML Models at Scale with Seldon and Kubeflow - Clive Cox, Seldon.io (Intermediate Skill Level), | [Slides] (https://schd.ws/hosted_files/kccnceu18/1a/SeldonKubeconEurope2018.pdf) | [Video](https://www.youtube.com/watch?v=pDlapGtecbY&t=2s) |
 | Automating GPU Infrastructure for Kubernetes - Lucas Servén Marín, CoreOS (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/53/automating_gpus_k8s.pdf)  | [Video](https://www.youtube.com/watch?v=i6V4KPh_D5g) |
+
+
+## Networking
+
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| The Untapped Power of Services - L7 Load Balancing Without a Service Mesh - Damien Lespiau, Weaveworks (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b7/L7%20Load%20Balancing%20without%20a%20Service%20Mesh.pdf) | [Video](https://www.youtube.com/watch?v=PQnTBUr174M) |
+| SRv6LB: Leveraging IPv6, Segment Routing, and VPP for Very Fast, Reliable, and Efficient Distributed Data Center Workload Balancing - Mark Townsley & Pierre Pfister, Cisco (Advanced Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=RRKUeyFaqEA) |
+| Make Ingress-Nginx Work for You, and the Community - Fernando Diaz, IBM (Any Skill Level) (Slides Attached) | Slides | [Video](https://schd.ws/hosted_files/kccnceu18/97/Make%20Ingress-Nginx%20Work%20for%20you%2C%20and%20the%20Community.pdf) |
+| Kubernetes and the CNI: Where We Are and What's Next - Casey Callendrello, CoreOS (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/64/Kubernetes-and-the-CNI-Kubecon-218.pdf) | [Video](https://www.youtube.com/watch?v=Vn6KYkNevBQ) |
+| The “Silk” Road: Building a CNI Plugin from Scratch - Usha Ramachandran & Angela Chin, Pivotal (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c7/Silk%20CNI%20KubeCon.pdf) | [Video](https://www.youtube.com/watch?v=RdpDvpA--nw)| 
+| Global Container Networks on Kubernetes at DigitalOcean - Andrew Sy Kim, DigitalOcean (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/15/Global%20Container%20Networks%20-%20KubeCON%20EU%202018.pdf)| [Video](https://www.youtube.com/watch?v=tHAkey-sZ9g) | 
+| Cloud Native Networking for Containers in AWS using CNI Plugins - Anirudh Aithal, Amazon Web Services (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6f/KC_CNC_EU_2018_CNI_AWS.pdf) | [Video](https://www.youtube.com/watch?v=tsc17ZuV5iU) |
+
+## Observability  
+
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| A Survey of the OSS Tracing Ecosystem - Ben Sigelman & Ted Young, LightStep (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/96/A%20Survey%20of%20the%20OSS%20Tracing%20Ecosystem%20%28Kubecon%20EMEA%202018%29.pdf) | [Video](https://www.youtube.com/watch?v=-zLPPYYH_F8) |
+| Practical and Useful Latency Analysis using Istio and OpenCenus - Varun Talwar, Stealth Startup & Morgan McLean, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/Kubecon-EU-OpenCensus-Istio%20Session.pdf) | [Video](https://www.youtube.com/watch?v=Nxqd7y78h7Q) |
+| Prometheus for Devs - Hubert Ströbitzer, Freelancer (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/3b/prometheus_for_devs.pdf)| [Video](https://www.youtube.com/watch?v=ZHCSmYvA_sg) |
+| How to Export Prometheus Metrics from Just About Anything - Matt Layher, DigitalOcean (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/94/How%20to%20export%20Prometheus%20metrics%20from%20just%20about%20anything.pdf) | [Video](https://www.youtube.com/watch?v=Zk09Mbu0YQk) |
+| Scalable Monitoring Using Prometheus with Apache Spark - Diane Feddema & Zak Hassan, Red Hat Inc (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/db/KubeCon-Spark%2BPrometheus.pptx%20%284%29.pdf)| [Video](https://www.youtube.com/watch?v=oNBpZFhL94s) | 
+| Low-Overhead Tracing Using eBPF for Observability into Kubernetes Apps and Services - Gaurav Gupta, SAP Labs (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/7f/KubeCon.pdf) | [Video](https://www.youtube.com/watch?v=ug3lYZdN0Bk) | 
+| Autoscale your Kubernetes Workload with Prometheus - Frederic Branczyk, CoreOS (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/a7/Autoscale%20your%20Kubernetes%20Workload%20with%20Prometheus.pdf) | [Video](https://www.youtube.com/watch?v=VQFoc0ukCvI) |
+| Pod Anomaly Detection and Eviction using Prometheus Metrics - David Benque & Cedric Lamoriniere, Amadeus (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e8/%5Bkubecon%5D%5BKopenhagen-2018%5D%20Kubervisor.pdf) | [Video](https://www.youtube.com/watch?v=HIB_haT1z5M) |
+| How We Used Jaeger and Prometheus to Deliver Lightning-Fast User Queries - Bryan Boreham, Weaveworks (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/52/Jaeger-Prometheus-Weaveworks.pdf) | [Video](https://www.youtube.com/watch?v=qg0ENOdP1Lo) |
+| TSDB: The Past, Present and the Future - Goutham Veeramachaneni, IIT Hyderabad (Advanced Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=0UvKEHFNu4Q) |
+| Getting Started with Logging in Kubernetes - Eduardo Silva, Treasure Data (Any Skill Level)  |  [Slides](https://schd.ws/hosted_files/kccnceu18/2d/Getting%20Started%20with%20Logging%20in%20Kubernetes.pdf | [Video](https://www.youtube.com/watch?v=7qL5wkAaSh4) |
+| Reveal Your Deepest Kubernetes Metrics - Bob Cotton, Freshtracks.io (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/11/20180503%20KubeCon%20EU%20-%20Kubernetes%20Metrics%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=1oJXMdVi0mM) |
+| Beyond OpenTracing - Allison Richardet, Asteris, LLC (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/9f/beyondOpenTracing.pdf) | [Video](https://www.youtube.com/watch?v=5uGGgMn2iq4) |
+| Integrating Prometheus and InfluxDB - Paul Dix, InfluxData (Intermediate Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=6UjVX-RTFmo)  |
+| Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Alerts and Exporters - Tom Wilkie, Grafana Labs (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=b7-DtFfsL6E) |
+| Federated Prometheus Monitoring at Scale - Nandhakumar Venkatachalam & LungChih Tung, Oath Inc (Intermediate Skill Level) |  [Slides](https://schd.ws/hosted_files/kccnceu18/55/Federated%20Prometheus%20Monitoring%20at%20Scale.pdf) | [Video](https://www.youtube.com/watch?v=Zm43VM7nKdU) |
+| Declarative Multi-Cluster Monitoring with Prometheus - Matthias Loibl, Loodse & Frederic Branczyk, CoreOS (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d4/Declarative%20Multi-Cluster%20Monitoring%20with%20Prometheus.pdf) | [Video](https://www.youtube.com/watch?v=IpGfmmJ2hcw) |
+| Feeding Realworld Data into Prometheus Microservice Applications on Kubernetes - Burkhard Noltensmeier, teuto.net (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/realworld-prometheus8.pdf) | [Video](https://www.youtube.com/watch?v=1rwBeDVdjyY) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
