@@ -199,3 +199,28 @@
 | Scalability Intro – Shyam Jeedigunta, Google & Bob Wise, AWS (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=8cJ-zaLOVXc)|
 | SIG CLI Intro - Phil Wittrock & Mengqi Yu, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ee/SIG%20CLI%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=ak95fTtqMNU) |
 | SIG Cluster Lifecycle Intro – Justin Santa Barbara, FathomDB & Lucas Käldström (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/93/KubeCon%20Copenhagen%20SIG%20Cluster%20Lifecycle%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=GmD1KYsRD4Q)|
+| Chaos Engineering WG Intro – Sylvain Hellegouarch, ChaosIQ (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c8/Chaos%20Engineering%20Working%20Group.pdf) | [Video](https://www.youtube.com/watch?v=nfY7BM9KO0g) |
+| Kubernetes Conformance WG Intro – William Denniss, Google (Any Skill Level) | Slides| [Video](https://www.youtube.com/watch?v=cImwp_826JU) |
+| Kubernetes Policy WG Intro – Zhipeng Huang, Huawei (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=YprD0zoWXX0)|
+| OpenTracing Project Intro – Priyanka Sharma & Ted Young, LightStep (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=_jCXx2BX7nI)|
+| SIG Contributor Experience Intro – Paris Pittman, Google & Elsie Phillips, CoreOS (Any Skill Level) |(https://schd.ws/hosted_files/kccnceu18/09/ContribEx%20KubeCon%20Update.pdf)| [Video](https://www.youtube.com/watch?v=e3VKszwIokk)|
+| containerd Intro – Stephen Day, Docker (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/f5/containerd%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=I0xU6nxnZLY)|
+| Jaeger Project Intro - Juraci Kröhling, Red Hat (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/27/jaeger-project-intro.pdf) | [Video](https://www.youtube.com/watch?v=D7XakRQaEk0) |
+| OpenStack SIG Intro – Chris Hoge, OpenStack Foundation, & David Lyle, Intel (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ea/SIG-OpenStack%20Update.pdf) | [Video](https://www.youtube.com/watch?v=_A7G5cpU4Xw)|
+| Prometheus Project Intro – Julius Volz, Prometheus (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/03/Monitoring%2C%20the%20Prometheus%20Way.pdf) | [Video](https://www.youtube.com/watch?v=sYMTY-SciUQ)|
+| TUF / Notary Project Intro – David Lawrence, Docker, & Justin Cappos, NYU, TUF (Any Skill Level) | [Slides] | [Video](https://www.youtube.com/watch?v=rHMOC6UH1Pg)|
+| Cloud Native Landscape Intro – Dan Kohn, Cloud Native Computing Foundation (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=_CFgSksTT54&t=3s) | 
+| SIG Instrumentation Intro – Frederic Branczyk, CoreOS, & Piotr Szczesniak, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/21/SIG%20Instrumentation%20Intro.pdf) | Video](https://www.youtube.com/watch?v=Qly7CMHmrV4) |
+| SIG Service-Catalog Intro – Michael Kibbe, Google, Morgan Bauer & Doug Davis, IBM (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4a/Kubecon%20Intro%20Slides%20SIG%20Service%20Catalog.pdf) | [Video](https://www.youtube.com/watch?v=2tycz5_Bp-E&t=66s) |
+| Rook Project Intro – Bassam Tabbara, Tony Allen & Jared Watts, Upbound (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d2/Rook%20Project%20Intro.pdf)| [Video](https://www.youtube.com/watch?v=To1ldyb_9NA)|
+| SIG Autoscaling Intro – Marcin Wielgus, Google, & Solly Ross, Red Hat (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=oJyjW8Vz314)|
+| SIG AWS Update - Justin Santa Barbara, FathomDB (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e1/Kubecon%20EU_%20sig-aws.pdf) | [Video](https://www.youtube.com/watch?v=yzWXuAZwJaw)|
+| SPIFFE Project Intro - Andrew Jessup & Emiliano Berenbaum, Scytale, Inc. (Any Skill Level)| Slides | [Video](https://www.youtube.com/watch?v=0LSaNrOabH4) |
+
+
+
+
+
+
+
+
