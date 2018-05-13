@@ -245,9 +245,26 @@
 | Multicluster Ingress Powered by Kubernetes Cluster Registry - Greg Harmon & Nikhil Jindal, Google (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9e/MultiClusterIngress-ClusterRegistry-Google.pdf) | [Video](https://www.youtube.com/watch?v=nCON0U2dZ_w) |
 | Who Shot the Cluster? - Audit Logging in Kubernetes - Marian Lobur & Mik Vyatskov, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=gDZxQBo-Zdc) |
 
+## Lightning Talk
 
-
-
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Lightning Talk: Chaos Engineering In Practice - Paul Jones, Capgemini UK (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ZnQA6o0jkUo) |
+| Lightning Talk: Not One Size Fits All, How to Size Kubernetes Clusters - Jeff Sloyer, IBM (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/kubecon2018-not-one-size-fits-all-how-to-size-kubernetes-clusters.pptx) | [Video](https://www.youtube.com/watch?v=ZzFjPqCibMc) |
+| Lightning Talk: Why you Should Really Pay Attention to K8S Security Best Practices - Benjy Portnoy, Aqua Security (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=DYDoGYWk_rk) |
+| Lightning Talk: Schedule the Scaling of Your Kubernetes Resources Using kube-start-stop - Lili Cosic, Weaveworks (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/69/Schedule%20the%20Scaling%20of%20Your%20Kubernetes%20Resources%20Using%20kube-start-stop.pdf) | [Video](https://www.youtube.com/watch?v=KUzCCMLwEoU) |
+| Lightning Talk: A Desktop GUI for your First Kubernetes Deployment - Alessandro Pilotti, Cloudbase Solutions (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4d/KubeCon%20Europe%202018%20-%20Lightning%20talk.pdf) | [Video](https://www.youtube.com/watch?v=wfHUic14z20) |
+| Lightning Talk: Kubernetes is Blowing Up - Ron Miller, TechCrunch (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/ff/Ron%20Miller%20Kubecon%20Presentation.pdf) | [Video](https://www.youtube.com/watch?v=VlL2c9eewIc) |
+| Lightning Talk: Scaling Distributed Deep Learning with Service Discovery: How CoreDNS Helps Distributed TensorFlow Tasks - Yong Tang, Infoblox Inc. (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/2c/Service%20Discovery%20with%20CoreDNS%20-%20KubeCon.pdf) | [Video](https://www.youtube.com/watch?v=WBAP91g7Yd0) |
+| Lightning Talk: Tips for Operating Kubernetes with OpenStack Cloud Provider - Yang Yu & Yifeng Xiao, VMware (Beginner Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/dc/Tips%20for%20Operating%20K8S%20with%20OpenStack%20Cloud%20Provider%20%5BAutosaved%5D.pptx) | [Video](https://www.youtube.com/watch?v=q0noZh5_HEY) | 
+| Lightning Talk: Extending Kubernetes with gRPC - Vladimir Vivien, VMware (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=JTzJPko5Shc) |
+| Lightning Talk: TSDB: The Engine behind Prometheus - Goutham Veeramachaneni, IIT Hyderabad (Beginner Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/6c/TSDB_%20The%20engine%20behind%20Prometheus%202.0.pdf) | [Video](https://www.youtube.com/watch?v=_529xDFDzI0) |
+| Lightning Talk: I Got your RBAC - kube-rbac-proxy - Frederic Branczyk, CoreOS (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/35/kube-rbac-proxy.pdf) | [Video](https://www.youtube.com/watch?v=LSJpzks0elc) |
+| Lightning Talk: The State Of FaaS on Kubernetes - Michael Hausenblas, Red Hat (Beginner Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/90/2018-05-01-KubeCon-The%20State%20of%20FaaS%20on%20Kubernetes.pdf)| [Video](https://www.youtube.com/watch?v=w4msKFfGZlQ) |
+| Lightning Talk: Extending Istio Service Mesh with Envoy v2 APIs for Stateless and Stateful Services - Dmitri Chtchourov & Tim Swanson, Cisco Systems, Inc (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/c4/kubecon-lightningtalk-beatrak-eu-2018-v5.pdf) | [Video](https://www.youtube.com/watch?v=yq-c3H1Cd1A) |
+| Lightning Talk: Istio by Example - Josef Adersberger, QAware (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/af/adersberger-istio-by-example-lightning.pdf) | [Video](https://www.youtube.com/watch?v=LYeAgVaJrm0)|
+| Lightning Talk: What I Wish I’d Known about Fluentd with Kubernetes - Bryan Boreham, Weaveworks (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/89/Fluentd%20CloudNativeCon%20Pres.pdf) | [Video](https://www.youtube.com/watch?v=BQuBnXp31ZA) |
+| Over-engineering My Home with Kubernetes - Matthias Grüter, Spotify (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/1a/KubeCon%20-%20Over-engineering%20My%20Home.pdf) | [Video](https://www.youtube.com/watch?v=z2h6Gx0dFog) |
 
 
 ## Machine Learning & Data
