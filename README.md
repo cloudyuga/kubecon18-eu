@@ -21,19 +21,19 @@
 | Keynote: Accelerating Kubernetes Native Applications - Brandon Philips, CTO of CoreOS, Red Hat | [Slides](https://schd.ws/hosted_files/kccnceu18/49/BRANDON%20PHILIPS.pdf) | [Videos](https://www.youtube.com/watch?v=8iQRJXJHiZ8&t=16s)|
 | Keynote: Switching Horses Midstream: The Challenges of Migrating 150+ Microservices to Kubernetes - Sarah Wells, Technical Director for Operations and Reliability, Financial Times | [Slides](https://schd.ws/hosted_files/kccnceu18/97/SARAH%20KubeconEurope2018_final.pdf) | [Video](https://www.youtube.com/watch?v=H06qrNmGqyE&t=1s) |
 | Keynote: Shaping the Cloud Native Future - Abby Kearns, Executive Director, Cloud Foundry Foundation | [Slides](https://schd.ws/hosted_files/kccnceu18/1f/AKearns_KubeCon_Final%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=_e8hi57hw40&t=28s) |
-| Keynote: Skip the Anxiety Attack - Build Secure Apps with Kubernetes - Jason McGee, Fellow, IBM | [Slides](https://schd.ws/hosted_files/kccnceu18/93/Skip%20the%20Anxiety%20Attack.pdf) |[Video](https://www.youtube.com/watch?v=f0qWkCn04pw)|
-| Keynote: Software's Community - Dave Zolotusky, Software Engineer, Spotify | [Slides](https://schd.ws/hosted_files/kccnceu18/ef/DAVE%20ZOLOTUSKY%20.pdf)|[Video](https://www.youtube.com/watch?v=c_Pz6rhVfME)|
-| Keynote: Cloud Native ML on Kubernetes - David Aronchick, Product Manager, Cloud AI and Co-Founder of Kubeflow, Google & Vishnu Kannan, Sr. Software Engineer, Google | [Slides]()| [Video](https://www.youtube.com/watch?v=I6iMznIYwM8)|
-| Keynote: Running with Scissors - Liz Rice, Technology Evangelist, Aqua Security | [Slides](https://schd.ws/hosted_files/kccnceu18/4d/Running%20with%20scissors%20-%20start.pdf)|[Video](https://www.youtube.com/watch?v=ltrV-Qmh3oY)|
-| Keynote: Scaling Deep Learning Models in Production Using Kubernetes - Sahil Dua, Software Developer, Booking.com |[Slides]()|[Video](https://www.youtube.com/watch?v=gcij93d9st8)|
-| Keynote: Crossing the River by Feeling the Stones - Simon Wardley, Researcher, Leading Edge Forum | [Slides](https://schd.ws/hosted_files/kccnceu18/e4/Simon%20Wardley%20-%20Keynote.pdf)|[Video](https://www.youtube.com/watch?v=xlNYYy8pzB4)|
-| Keynote: Closing Remarks – Kelsey Hightower, Kubernetes Community Member, Google & Liz Rice, Technology Evangelist, Aqua Security | [Slides]()|[Video](https://www.youtube.com/watch?v=ehXiPfJR_3E&t=33s)|
+| Keynote: Skip the Anxiety Attack - Build Secure Apps with Kubernetes - Jason McGee, Fellow, IBM | [Slides](https://schd.ws/hosted_files/kccnceu18/93/Skip%20the%20Anxiety%20Attack.pdf) |[Video](https://www.youtube.com/watch?v=f0qWkCn04pw&t=26s)|
+| Keynote: Software's Community - Dave Zolotusky, Software Engineer, Spotify | [Slides](https://schd.ws/hosted_files/kccnceu18/ef/DAVE%20ZOLOTUSKY%20.pdf)|[Video](https://www.youtube.com/watch?v=c_Pz6rhVfME&t=3s)|
+| Keynote: Cloud Native ML on Kubernetes - David Aronchick, Product Manager, Cloud AI and Co-Founder of Kubeflow, Google & Vishnu Kannan, Sr. Software Engineer, Google | Slides| [Video](https://www.youtube.com/watch?v=I6iMznIYwM8)|
+| Keynote: Running with Scissors - Liz Rice, Technology Evangelist, Aqua Security | [Slides](https://schd.ws/hosted_files/kccnceu18/4d/Running%20with%20scissors%20-%20start.pdf)|[Video](https://www.youtube.com/watch?v=ltrV-Qmh3oY&t=107s)|
+| Keynote: Scaling Deep Learning Models in Production Using Kubernetes - Sahil Dua, Software Developer, Booking.com |Slides |[Video](https://www.youtube.com/watch?v=gcij93d9st8)|
+| Keynote: Crossing the River by Feeling the Stones - Simon Wardley, Researcher, Leading Edge Forum | [Slides](https://schd.ws/hosted_files/kccnceu18/e4/Simon%20Wardley%20-%20Keynote.pdf)|[Video](https://www.youtube.com/watch?v=xlNYYy8pzB4&t=1s)|
+| Keynote: Closing Remarks – Kelsey Hightower, Kubernetes Community Member, Google & Liz Rice, Technology Evangelist, Aqua Security | Slides |[Video](https://www.youtube.com/watch?v=ehXiPfJR_3E&t=35s)|
 
 ## App/Dev
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4) |
+| Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4&t=287s) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo)|
 | Habitat Builder: Cloud Native Application Automation - Elliott Davis & Fletcher Nichol, Chef.io (Habitat.sh) (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4f/Kubecon-2018-Habitat-Builder.pdf) |[Video](https://www.youtube.com/watch?v=5idV8kbyN8M)|
