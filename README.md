@@ -325,8 +325,18 @@
 | Cloud Native Identity Management - Andreas Zitzelsberger, QAware GmbH & Andrew Jessup, Scytale Inc. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/dd/cloud-native-identity-management.pdf) | [Video](https://www.youtube.com/watch?v=eCLTdSp4JzE) |
 | The Route To Rootless Containers - Ed King, Pivotal & Julz Friedman, IBM (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/08/route_to_rootless_slides.pdf) | [Video](https://www.youtube.com/watch?v=j4GO2d3YjmE) |
 | Improving your Kubernetes Workload Security with Hardware Virtualization - Fabian Deutsch, Red Hat & Samuel Ortiz, Intel (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=T_NxDXAdbfo)| 
-| | | |
-
+| Applying Least Privileges through Kubernetes Admission Controllers - Benjy Portnoy, Aqua Security (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=7mgBxr4D-xs) |
+| Good Enough for the Finance Industry: Achieving High Security at Scale with Microservices in Kubernetes - Zachary Arnold & Austin Adams, Ygrene Energy Fund (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/78/Good%20Enough%20for%20the%20Finance%20Industry_.pdf) | [Video](https://www.youtube.com/watch?v=1YCIOEW5nGw) |
+| Container Isolation at Scale (Introducing gVisor) - Dawn Chen & Zhengyu He, Google (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/47/Container%20Isolation%20at%20Scale.pdf) | [Video](https://www.youtube.com/watch?v=pWyJahTWa4I) |
+| OPA: The Cloud Native Policy Engine - Torin Sandall, Styra (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/25/OPA_%20The%20Cloud%20Native%20Policy%20Engine.pdf) | [Video](https://www.youtube.com/watch?v=XEHeexPpgrA) |
+| Case Study: How Containers Makes Security and Compliance Instantly Easier - John Morello, Twistlock (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=I8tGZXPuIo0) |
+| Entitlements: Understandable Container Security Controls - Justin Cormack & Nassim Eddequiouaq, Docker (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d1/Kubecon%20Entitlements.pdf) | [Video](https://www.youtube.com/watch?v=Jbqxsli2tRw) |
+| Secure Pods - Tim Allclair, Google (Advanced Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/96/Secure%20Pods%20-%20KubeCon%20EU%202018.pdf) | [Video](https://www.youtube.com/watch?v=GLwmJh-j3rs) |
+| From Kubelet to Istio: Kubernetes Network Security Demystified - Andrew Martin, ControlPlane (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/5c/Andrew%20Martin%20-%20Kubernetes%20Network%20Security%20Demystified%20%28Kubecon%20EU%2C%20May%202018%29.pdf) | [Video](https://www.youtube.com/watch?v=Uocf67aD5QQ) |
+| A Hackers Guide to Kubernetes and the Cloud - Rory McCune, NCC Group PLC (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ea/A%20Hackers%20Guide%20to%20Kubernetes%20and%20the%20cloud.pdf) | [Video](https://www.youtube.com/watch?v=dxKpCO2dAy8) |
+| Kubernetes Runtime Security: What Happens if a Container Goes Bad? - Jen Tong & Maya Kaczorowski, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/72/20180524%20-%20KubeCon%20EU%20-%20Kubernetes%20Runtime%20Security.pdf) | [Video](https://www.youtube.com/watch?v=X7mBjas9vtE) |
+| TL;DR NIST Container Security Standards - Elsie Phillips, CoreOS (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/63/NIST%20Container%20Security%20Talk.pdf) | [Video](https://www.youtube.com/watch?v=AqoDQaeuLXY) |
+| Multi-Tenancy in Kubernetes: Best Practices Today, and Future Directions - David Oppenheimer, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/34/kubecon-eu-2018-slides.pdf) | [Video](https://www.youtube.com/watch?v=xygE8DbwJ7c) |
 
 
 
