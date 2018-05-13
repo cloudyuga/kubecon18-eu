@@ -234,6 +234,22 @@
 | kops Intro – Justin Santa Barbara, Google (Any Skill Level) | [Slides](https://www.youtube.com/watch?v=9CwkpEVDNMM) | [Video](https://schd.ws/hosted_files/kccnceu18/50/Kubecon%20EU_%20kops.pdf) |
 | WG App Def - Intro – Antoine Legrand, Red Hat & Gareth Rushgrove, Docker (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=I3BU9pkTgRE) |
 
+## Kubernetes Deep Dives
+
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Managing Kubernetes: What You Need to Know About Day 2 - Craig Tracey, Heptio (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fe/Managing%20Kubernetes-Day%202.pdf) | [Video](https://www.youtube.com/watch?v=0TBelL8UBQU) |
+| Understanding Distributed Consensus in etcd and Kubernetes - Laura Frank, CloudBees (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/76/Raft%20--%20KubeCon%202018.pdf)| [Video](https://www.youtube.com/watch?v=n9VKAKwBj_0) |
+| Blackholes and Wormholes: Understand and Troubleshoot the “Magic” of Kubernetes Networking - Minhan Xia & Rohit Ramkumar, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/e7/Blackholes%20%26%20Wormholes%20-%20KubeCon%202018%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=knIJEzTd3kc&t=4s) |
+| Exploring Container Mechanisms Through the Story of a Syscall - Alban Crequy, Kinvolk (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/46/Exploring%20container%20mechanisms%20through%20the%20story%20of%20a%20syscall.pdf) | [Video](https://www.youtube.com/watch?v=1Tl-NURLoq4) |
+| Multicluster Ingress Powered by Kubernetes Cluster Registry - Greg Harmon & Nikhil Jindal, Google (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9e/MultiClusterIngress-ClusterRegistry-Google.pdf) | [Video](https://www.youtube.com/watch?v=nCON0U2dZ_w) |
+| Who Shot the Cluster? - Audit Logging in Kubernetes - Marian Lobur & Mik Vyatskov, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=gDZxQBo-Zdc) |
+
+
+
+
+
+
 ## Machine Learning & Data
 
 | Topic        | Presetation    | Video |
@@ -384,8 +400,6 @@
 | Kubernetes Runs Anywhere, but Does your Data? - Jared Watts, Upbound (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c1/kubernetes-runs-anywhere-but-does-your-data.pdf) | [Video](https://www.youtube.com/watch?v=Ot66g1WzXEU)|
 | Policy-Based Volume Snapshots Management in Kubernetes - Jing Xu, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ec/Policy-based%20Volume%20Snapshot%20Design.pdf) | [Video](https://www.youtube.com/watch?v=_ZcooWc7Iyc&t=7s) |
 | Vitess and a Kubernetes Operator - Sugu Sougoumarane, YouTube (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/56/Vitess%40Kubecon2018.pdf) | [Video](https://www.youtube.com/watch?v=paOiIkASDjg) |
-
-
 
 
 
