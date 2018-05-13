@@ -303,8 +303,16 @@
 | Inside Kubernetes Resource Management (QoS) – Mechanics and Lessons from the Field - Michael Gasch, VMware (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/33/Inside%20Kubernetes%20QoS%20M.%20Gasch%20KubeCon%20EU%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=8-apJyr2gi0) |
 | Building a Kubernetes on Bare-Metal Cluster to Serve Wikipedia - Alexandros Kosiaris & Giuseppe Lavagetto, Wikimedia Foundation (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d5/Wikipedia%20-%20Kubecon%202018.pdf) | [Video](https://www.youtube.com/watch?v=7rqvRwfZHF4) |
 
+## Runtimes
 
-
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| What's Up With All The Different Container Runtimes? - Ricardo Aravena, Branch Metrics (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/08/What’s%20Up%20With%20All%20the%20Container%20Runtimes.pdf) | [Video](https://www.youtube.com/watch?v=lHv0LVEIPk8) |
+| Containerd, What Does it Mean for Me - Scott Coulton, Puppet (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/11/kubecon.pdf) | [Video](https://www.youtube.com/watch?v=dBm9n_nq-Uc) |
+| CRI: The Second Boom of Container Runtimes - Harry Zhang & Xu Wang, HyperHQ (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/60/cri-second-boom-of-container-runtimes-KC_CNC_EU_2018.pdf) | [Video](https://www.youtube.com/watch?v=gVqa1cNIZT0) |  
+| You Ever Wonder Why We're Here? - Sarah Christoff, Cloudreach (Beginner Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/a4/You%20Ever%20Wonder%20Why%20We’re%20Here_%20%282%29.pptx) | [Video](https://www.youtube.com/watch?v=ZHYFDV3XKQ4) | 
+| Kata Containers: Getting Involved with the Kata Community - Anne Bertucio, OpenStack & Samuel Ortiz, Intel | [Slides](https://schd.ws/hosted_files/kccnceu18/b0/Kata%20Community%20Kube%20Con.pdf) | [Video](https://www.youtube.com/watch?v=bUOIJBUPPck) | 
+| Take Control of your Filesystems with containerd’s Snapshotters - Stephen Day, Docker, Inc. (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ec/snapshotters%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=ebynv9XxrLk) |
 
 
 
