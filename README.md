@@ -315,6 +315,21 @@
 | Take Control of your Filesystems with containerd’s Snapshotters - Stephen Day, Docker, Inc. (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ec/snapshotters%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=ebynv9XxrLk) |
 
 
+## Security+Identity+Signing 
+
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Completely Securing the Software Supply Chain using Grafeas + in-toto - Lukas Puheringer, NYU & Wendy Dembowski, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=wmOSpSx6P3I) |
+| Establishing Image Provenance and Security in Kubernetes - Adrian Mouat, Container Solutions (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/00/ImageProvenanceAndSecurity_AdrianMouat.pdf) | [Video](https://www.youtube.com/watch?v=zs-6YEUrJAM) |
+| Securing your Kubernetes Delivery Pipelines with Notary and TUF - Liam White & Michael Hough, IBM (Intermediate Skill Level)  | [Slides](https://schd.ws/hosted_files/kccnceu18/41/kubernetes-notary-tuf.pdf) | [Video](https://www.youtube.com/watch?v=JK70k_B87mw) |
+| Cloud Native Identity Management - Andreas Zitzelsberger, QAware GmbH & Andrew Jessup, Scytale Inc. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/dd/cloud-native-identity-management.pdf) | [Video](https://www.youtube.com/watch?v=eCLTdSp4JzE) |
+| The Route To Rootless Containers - Ed King, Pivotal & Julz Friedman, IBM (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/08/route_to_rootless_slides.pdf) | [Video](https://www.youtube.com/watch?v=j4GO2d3YjmE) |
+| Improving your Kubernetes Workload Security with Hardware Virtualization - Fabian Deutsch, Red Hat & Samuel Ortiz, Intel (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=T_NxDXAdbfo)| 
+| | | |
+
+
+
+
 
 
 
