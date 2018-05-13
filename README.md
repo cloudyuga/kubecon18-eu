@@ -350,12 +350,28 @@
 | Convergence of Serverless APIs & Compute - Sarah Allen, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=c4ShcwgrKL4) |
 
 
+## Service mesh
 
-
-
-
-
-
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Introduction to Istio Configuration - Joy Zhang, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/30/Introduction%20to%20Istio%20Configuration%20--%20Kubecon%20EU%202018%20%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=x1Tyw8dFKjI) |
+| Evolving Systems Design: From Unreliable rpc to Resilience with Linkerd - Edward Wilde, Form3 (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/18/form3-kubecon-linkerd-slides.pdf) | [Video](https://www.youtube.com/watch?v=2EqkvPqk7JU) |
+| Replacing NGINX with Envoy in a Traffic Control System - Mark McBride, Turbine Labs, Inc (Advanced Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/a6/Turbine%20Labs_Move%20to%20Envoy%20Deck_V2.pdf) | [Video](https://www.youtube.com/watch?v=MO_0bwcNEZY) | 
+| Building Hybrid Clouds with Istio - Allan Naim, Google & Rohit Agarwalla, Cisco (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=bLJL53UIcqI) | 
+| Performance and Scale @ Istio Service Mesh - Fawad Khaliq, VMware Inc, Laurent Demailly, Google & Surya V Duggirala, IBM (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/62/Istio_Perf_KC_CNC_EU_2018_ppt_v3.pdf) | [Video](https://www.youtube.com/watch?v=G4F5aRFEXnU) |
+| Introducing Envoy-Based Service Mesh at Booking.com - Ivan Kruglov, Booking.com (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ce/Introducing%20Envoy-Based%20Service%20Mesh%20at%20Booking.com.pdf) | [Video](https://www.youtube.com/watch?v=Pus2ytdEfrQ) |
+| How to Get a Service Mesh Into Prod without Getting Fired - William Morgan, Buoyant, Inc (Any Skill Level) | (https://schd.ws/hosted_files/kccnceu18/e0/How%20to%20get%20a%20service%20mesh%20into%20production%20without%20getting%20fired.pdf) | [Video](https://www.youtube.com/watch?v=XA1aGpYzpYg) |
+| From eval to prod: How a Service Mesh Helped Us Build Production Cloud-Native Services - Israel Sotomayor, Moltin (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/f4/slides.pdf) | [Video](https://www.youtube.com/watch?v=VoYAtCVz3Ig) |
+| GitOps for Istio - Manage Istio Config like Code - Varun Talwar, Stealth Startup & Alexis Richardson, WeaveWorks (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=VkKMf23ZokY) |
+| Envoy Internals Deep Dive - Matt Klein, Lyft (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/75/Kubecon_EU_18_Draft.pdf) | [Video](https://www.youtube.com/watch?v=gQF23Vw0keg) |
+| Panel Discussion: Ask Us Anything: Microservices and Service Mesh - Moderated by Jason McGee, IBM (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=uWi-Fe4Rzhg) |
+| Observability and the Depths of Debugging Cloud-Native Applications using Linkerd and Conduit - Franziska von der Goltz, Buoyant, Inc (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/23/Observability%20and%20Debugging%20with%20Linkerd%2BConduit.pdf) | [Video](https://www.youtube.com/watch?v=RC_9ywj0yz8) |
+| Istio - The Weather Company's Journey - Nick Nellis & Fabio Oliveira, IBM (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/0e/Istio%20-%20The%20Weather%20Company%27s%20Journey.pdf) | [Video](https://www.youtube.com/watch?v=0fKi3NeCsSE) |
+| Canary Deploys with Kubernetes, Istio and Envoy - Jason Yee, Datadog (Beginner Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=MGLDRKiXNf0) |
+| Stretching the Mesh - John Joyce & Robert Li, Cisco Systems (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/09/multicloud_kubecon.pdf) | [Video](https://www.youtube.com/watch?v=jM6ovJAWCvs) |
+| Istio Tells me my Service has Slow Response Time, Now What? - Endre Sara & Enlin Xu, Turbonomic (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/2f/KubeConEU2018_v1-2.pdf) | [Video](https://www.youtube.com/watch?v=ZF-_LN9XYiQ) |
+| Accelerating Envoy with the Linux Kernel - Thomas Graf, Covalent (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d9/2018%20KubeCon%20EU%20Cilium%20-%20Accelerating%20Envoy.pdf) | [Video](https://www.youtube.com/watch?v=ER9eIXL2_14) |
+| Observing and Troubleshooting your Microservices with Istio - Isaiah Snell-feikema, IBM & Douglas Reid, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/99/Observing%20and%20Troubleshooting%20your%20Microservices%20with%20Istio.pdf) | [Video](https://www.youtube.com/watch?v=TSEqxsctXVc) | 
 
 
 
