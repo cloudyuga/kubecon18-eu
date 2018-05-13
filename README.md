@@ -338,12 +338,16 @@
 | TL;DR NIST Container Security Standards - Elsie Phillips, CoreOS (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/63/NIST%20Container%20Security%20Talk.pdf) | [Video](https://www.youtube.com/watch?v=AqoDQaeuLXY) |
 | Multi-Tenancy in Kubernetes: Best Practices Today, and Future Directions - David Oppenheimer, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/34/kubecon-eu-2018-slides.pdf) | [Video](https://www.youtube.com/watch?v=xygE8DbwJ7c) |
 
+## Serverless
 
-
-
-
-
-
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| The Serverless and Event-Driven Future - Austen Collins, Serverless (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b1/kubecon-cloudnativecon-serverless-and-eventdriven-future-austencollins.pdf) | [Video](https://www.youtube.com/watch?v=TZPPjAv12KU) |
+| Function Composition in a Serverless World - Erwin van Eyk & Timirah James, Platform9 (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/7a/Function%20Composition%20in%20a%20Serverless%20World%20-%20Talk%20copy.pdf) | [Video](https://www.youtube.com/watch?v=4_Szfs7eBnk) |
+| Securing Serverless Functions via Kubernetes Objects - Sebastien Goasguen, Bitnami (Advanced Skill Level)| [Slides](https://schd.ws/hosted_files/kccnceu18/f6/Securing%20Serverless%20Functions%20via%20Kubernetes%20Objects.pdf) | [Video](https://www.youtube.com/watch?v=qs0909rJUt8) |
+| Operating a Global-Scale FaaS on Top of Kubernetes - Chad Arimura & Matt Stephenson, Oracle (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=SZL1N-2E3wI) |
+| Apache OpenWhisk on Kubernetes: Building a Production-Ready Serverless Stack on and for Kubernetes - David Grove, IBM Research (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/dc/KubeconEurope%20-%20OW%20on%20Kube%20-%20May%202018.pdf) | [Video](https://www.youtube.com/watch?v=uPohj7qoigY) |
+| Convergence of Serverless APIs & Compute - Sarah Allen, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=c4ShcwgrKL4) |
 
 
 
