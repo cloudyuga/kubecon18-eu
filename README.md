@@ -374,6 +374,18 @@
 | Observing and Troubleshooting your Microservices with Istio - Isaiah Snell-feikema, IBM & Douglas Reid, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/99/Observing%20and%20Troubleshooting%20your%20Microservices%20with%20Istio.pdf) | [Video](https://www.youtube.com/watch?v=TSEqxsctXVc) | 
 
 
+## Storage
+
+| Topic        | Presetation    | Video |
+| ------------- |:-------------:|:-----:|
+| Kubernetes Storage Lingo 101 - Saad Ali, Google (Beginner Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=uSxlgK1bCuA) |
+| Using Kubernetes Local Storage for Scale-Out Storage Services in Production - Michelle Au, Google & Ian Chakeres, Salesforce (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/89/2018%20Kubecon%20EU%20Local%20Persistent%20Volumes%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=eqkgiPppZN8) | 
+| Container Storage Interface: Present and Future - Jie Yu, Mesosphere, Inc. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fb/CloudNativeCon%20EU%202018%20CSI%20Jie%20Yu.pdf) | [Video](https://www.youtube.com/watch?v=ktwY1anKN58) |
+| Kubernetes Runs Anywhere, but Does your Data? - Jared Watts, Upbound (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/c1/kubernetes-runs-anywhere-but-does-your-data.pdf) | [Video](https://www.youtube.com/watch?v=Ot66g1WzXEU)|
+| Policy-Based Volume Snapshots Management in Kubernetes - Jing Xu, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ec/Policy-based%20Volume%20Snapshot%20Design.pdf) | [Video](https://www.youtube.com/watch?v=_ZcooWc7Iyc&t=7s) |
+| Vitess and a Kubernetes Operator - Sugu Sougoumarane, YouTube (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/56/Vitess%40Kubecon2018.pdf) | [Video](https://www.youtube.com/watch?v=paOiIkASDjg) |
+
+
 
 
 
