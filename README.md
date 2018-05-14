@@ -2,7 +2,7 @@
 
 ## Keynote
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Keynote: How Good Is Our Code? - Dan Kohn, Executive Director, Cloud Native Computing Foundation | Slides |[Video](https://www.youtube.com/watch?v=S4SKOHmVD1U&t=26s) |
 | Keynote: CNCF Project Update - Liz Rice, Technology Evangelist, Aqua Security; Sugu Sougoumarane, CTO, PlanetScale Data; Colin Sullivan, Product Manager, Synadia Communications, Inc. & Andrew Jessup, Co-founder...| [Slides](https://schd.ws/hosted_files/kccnceu18/dc/CNCF%20Project%20Update%20.pdf)|[Video](https://www.youtube.com/watch?v=C1kwY0N4PUk)|
@@ -31,7 +31,7 @@
 
 ## App/Dev
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4&t=287s) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo) |
@@ -51,7 +51,7 @@
 
 ## BOF
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Grafeas Community Meetup BOF - Wendy Dembowski, Google (Any Skill Level)| Slides |[Video](https://www.youtube.com/watch?v=Rmpu6HEKTJA) |
 | Serverless WG BoF - Doug Davis, IBM (Any Skill Level) |Slides|[Video]()|
@@ -63,7 +63,7 @@
 
 ## Case Studies
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/d7/kubecon-emperors-new-shoes.pdf) |Video |
 | Kubernetes on Supporting $8 Trillion Card Payments in China - Xin Zhang & Deyuan Deng, Caicloud (Any Skill Level) | [Slides]()|[Video](https://www.youtube.com/watch?v=OS5DKWffn9s)|
@@ -75,7 +75,7 @@
 
 ## CI/CD
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Git-push Workflows (using git hooks) for Deploying Applications on Kubernetes - Tanmai Gopal & Vamshi Surabhi Rao, Hasura (Intermediate Skill Level) (Slides Attached) |[Slides](https://schd.ws/hosted_files/kccnceu18/07/Git%20push%20workflows%20on%20Kubernetes%20-%20Gitkube%20-%20Hasura%20-%20Tanmai%20Gopal.pdf)|[Video](https://www.youtube.com/watch?v=gDGT4Gf_4JM)|
 | Continuous Delivery Meets Custom Kubernetes Controller: A Declarative Configuration Approach to CI/CD - Suneeta Mall & Simon Cochrane, Nearmap (Intermediate Skill Level) (Slides Attached) |[Slides](https://schd.ws/hosted_files/kccnceu18/66/Teaser-Continuous%20Delivery%20Meets%20Custom%20Kubernetes%20Controller.pdf)|[Video](https://www.youtube.com/watch?v=kBS_Wd41R8k)|
@@ -87,7 +87,7 @@
 
 ## Co-located Event
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | FD.io Mini-Summit | Slides |[Video](https://www.youtube.com/watch?v=846GvDUmLro&list=PLWHpG2-3ZXXv-TDgybb_jDvTu_B4Xb2nY) |
 | Google Kubernetes Engine Hands-on Workshop | Slides | Video |
@@ -101,7 +101,7 @@
 
 ## Customizing & Extending Kubernetes
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Higher-Order Deployments: Reducing Boilerplate With Kubernetes Custom Resource Definitions - James Bowes, Manifold (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/19/Higher-Order%20Deployments.pdf) | [Video](https://www.youtube.com/watch?v=5VGJOW4QA3Q&t=3s)
 | Google Kubernetes Engine Hands-on Workshop | Slides | Video |
@@ -119,7 +119,7 @@
 
 ## Deep Dives for Projects/SIGs/Working Groups
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | AWS / kops Deep Dive / Hacking Session – Justin Santa Barbara, FathomDB (Intermediate Skill Level)  | Slides | Video |
 | CNCF: CloudEvents Working Group F2F – Doug Davis, IBM (Intermediate Skill Level) | Slides | Video |
@@ -167,7 +167,7 @@
 
 ## gRPC
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Making Big Data Processing Portable. The Story of Apache Beam and gRPC - Ismaël Mejía, Talend (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/35/Making%20Big%20Data%20Processing%20Portable.%20The%20story%20of%20Apache%20Beam%20and%20gRPC%20-%20Ismael%20Mejia%20%28iemejia%29.pdf) | [Video](https://www.youtube.com/watch?v=7iALa6sFgb8) |
 | gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6a/grpc_loadbalancing_kubernetes_slides.pdf) | [Video](https://www.youtube.com/watch?v=F2znfxn_5Hg) |
@@ -176,7 +176,7 @@
 
 ## Hardware Hacking 
 
-| Topic        | Presetation          | Video  |
+| Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Kubernetes as an Abstraction Layer for a Connected Home - Scott Nichols, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fb/Kubernetes%20as%20an%20Abstraction%20Layer%20for%20a%20Connected%20Home.pdf)| [Video](https://www.youtube.com/watch?v=l9g3-cnaBR4) |
 | Kubernetes Advanced Scheduling — For Heating Showers? - Ad van der Veer & Boris Mattijssen, Nerdalize B.V. (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4e/KubeCon%202018%20-%20Advanced%20Scheduling%20for%20Heating%20Shows.pdf) | [Video](https://www.youtube.com/watch?v=q8MFm2jwXpA)|
@@ -185,7 +185,7 @@
 
 ## Intros for Projects/SIGs/Working Groups
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | gRPC Intro – Jayant Kolhe & Sree Kuchibhotla, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6b/gRPC%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) | 
 | Kubeflow Intro – Michał Jastrzębski & Ala Raddaoui, Intel (Any Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/9f/kubeflow-intro.pdf)|[Video](https://www.youtube.com/watch?v=NrDpQks0e98)| 
@@ -234,7 +234,7 @@
 
 ## Kubernetes Deep Dives
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Managing Kubernetes: What You Need to Know About Day 2 - Craig Tracey, Heptio (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/fe/Managing%20Kubernetes-Day%202.pdf) | [Video](https://www.youtube.com/watch?v=0TBelL8UBQU) |
 | Understanding Distributed Consensus in etcd and Kubernetes - Laura Frank, CloudBees (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/76/Raft%20--%20KubeCon%202018.pdf)| [Video](https://www.youtube.com/watch?v=n9VKAKwBj_0) |
@@ -245,7 +245,7 @@
 
 ## Lightning Talk
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Lightning Talk: Chaos Engineering In Practice - Paul Jones, Capgemini UK (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ZnQA6o0jkUo) |
 | Lightning Talk: Not One Size Fits All, How to Size Kubernetes Clusters - Jeff Sloyer, IBM (Any Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/kubecon2018-not-one-size-fits-all-how-to-size-kubernetes-clusters.pptx) | [Video](https://www.youtube.com/watch?v=ZzFjPqCibMc) |
@@ -267,7 +267,7 @@
 
 ## Machine Learning & Data
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) |
 | Building ML Products With Kubeflow - Jeremy Lewi, Google & Stephan Fabel, Canonical (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/c2/Building%20ML%20Products%20With%20Kubeflow%20%28Kubecon%202018%29%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=sC8Ce9vUggo)  |
@@ -284,7 +284,7 @@
 
 ## Networking
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | The Untapped Power of Services - L7 Load Balancing Without a Service Mesh - Damien Lespiau, Weaveworks (Advanced Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b7/L7%20Load%20Balancing%20without%20a%20Service%20Mesh.pdf) | [Video](https://www.youtube.com/watch?v=PQnTBUr174M) |
 | SRv6LB: Leveraging IPv6, Segment Routing, and VPP for Very Fast, Reliable, and Efficient Distributed Data Center Workload Balancing - Mark Townsley & Pierre Pfister, Cisco (Advanced Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=RRKUeyFaqEA) |
@@ -296,7 +296,7 @@
 
 ## Observability  
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | A Survey of the OSS Tracing Ecosystem - Ben Sigelman & Ted Young, LightStep (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/96/A%20Survey%20of%20the%20OSS%20Tracing%20Ecosystem%20%28Kubecon%20EMEA%202018%29.pdf) | [Video](https://www.youtube.com/watch?v=-zLPPYYH_F8) |
 | Practical and Useful Latency Analysis using Istio and OpenCenus - Varun Talwar, Stealth Startup & Morgan McLean, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/Kubecon-EU-OpenCensus-Istio%20Session.pdf) | [Video](https://www.youtube.com/watch?v=Nxqd7y78h7Q) |
@@ -319,7 +319,7 @@
 
 ## Operations 
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Building cert-manager: Migrating Thousands of Users from kube-lego to use CRDs - James Munnelly, Jetstack (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=TuIycZeiNZM) |
 | Stories from the Playbook - Tina Zhang & Fred van den Driessche, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9a/Stories%20from%20the%20Playbook.pdf) | [Video](https://www.youtube.com/watch?v=N2JUGnwinbQ) |
@@ -336,7 +336,7 @@
 
 ## Runtimes
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | What's Up With All The Different Container Runtimes? - Ricardo Aravena, Branch Metrics (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/08/What’s%20Up%20With%20All%20the%20Container%20Runtimes.pdf) | [Video](https://www.youtube.com/watch?v=lHv0LVEIPk8) |
 | Containerd, What Does it Mean for Me - Scott Coulton, Puppet (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/11/kubecon.pdf) | [Video](https://www.youtube.com/watch?v=dBm9n_nq-Uc) |
@@ -348,7 +348,7 @@
 
 ## Security+Identity+Signing 
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Completely Securing the Software Supply Chain using Grafeas + in-toto - Lukas Puheringer, NYU & Wendy Dembowski, Google (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=wmOSpSx6P3I) |
 | Establishing Image Provenance and Security in Kubernetes - Adrian Mouat, Container Solutions (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/00/ImageProvenanceAndSecurity_AdrianMouat.pdf) | [Video](https://www.youtube.com/watch?v=zs-6YEUrJAM) |
@@ -371,7 +371,7 @@
 
 ## Serverless
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | The Serverless and Event-Driven Future - Austen Collins, Serverless (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b1/kubecon-cloudnativecon-serverless-and-eventdriven-future-austencollins.pdf) | [Video](https://www.youtube.com/watch?v=TZPPjAv12KU) |
 | Function Composition in a Serverless World - Erwin van Eyk & Timirah James, Platform9 (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/7a/Function%20Composition%20in%20a%20Serverless%20World%20-%20Talk%20copy.pdf) | [Video](https://www.youtube.com/watch?v=4_Szfs7eBnk) |
@@ -383,7 +383,7 @@
 
 ## Service mesh
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Introduction to Istio Configuration - Joy Zhang, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/30/Introduction%20to%20Istio%20Configuration%20--%20Kubecon%20EU%202018%20%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=x1Tyw8dFKjI) |
 | Evolving Systems Design: From Unreliable rpc to Resilience with Linkerd - Edward Wilde, Form3 (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/18/form3-kubecon-linkerd-slides.pdf) | [Video](https://www.youtube.com/watch?v=2EqkvPqk7JU) |
@@ -407,7 +407,7 @@
 
 ## Storage
 
-| Topic        | Presetation    | Video |
+| Topic        | Presentation    | Video |
 | ------------- |:-------------:|:-----:|
 | Kubernetes Storage Lingo 101 - Saad Ali, Google (Beginner Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=uSxlgK1bCuA) |
 | Using Kubernetes Local Storage for Scale-Out Storage Services in Production - Michelle Au, Google & Ian Chakeres, Salesforce (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/89/2018%20Kubecon%20EU%20Local%20Persistent%20Volumes%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=eqkgiPppZN8) | 
