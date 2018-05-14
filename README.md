@@ -1,5 +1,11 @@
 # KubeCon'18 EU Presentations and Videos
 
+## Machine Learning & Data
+
+| Topic        | Presentation    | Video |
+| ------------- |:-------------:|:-----:|
+| Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) |
+
 ## Keynote
 
 | Topic        | Presentation          | Video  |
@@ -271,7 +277,7 @@
 | ------------- |:-------------:|:-----:|
 | Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf)|[Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE)|
 | Building ML Products With Kubeflow - Jeremy Lewi, Google & Stephan Fabel, Canonical (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/c2/Building%20ML%20Products%20With%20Kubeflow%20%28Kubecon%202018%29%20%281%29.pdf)| [Video](https://www.youtube.com/watch?v=sC8Ce9vUggo)|
-| The Path to GPU as a Service in Kubernetes - Renaud Gaubert, NVIDIA (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf) | c(https://www.youtube.com/watch?v=8JGduez-8S0)|
+| The Path to GPU as a Service in Kubernetes - Renaud Gaubert, NVIDIA (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf) |[Video](https://www.youtube.com/watch?v=8JGduez-8S0)|
 | Bringing Your Data Pipeline into The Machine Learning Era - Chris Gaun & Jörg Schad, Mesosphere (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=f_-3rQoudnc) |
 | Compliant Data Management and Machine Learning on Kubernetes - Daniel Whitenack, Pachyderm (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/a1/KubeCon_EU_2018%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=eOzl-LFqYFM) |
 | What’s in the Box? Resource Management in Kubernetes - Louise Daly & Ivan Coughlan, Intel (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/dd/WhatsInTheBox_ResourceManagementInKubernetes.pdf) | [Video](https://www.youtube.com/watch?v=7CWH3KRk01U) |
