@@ -206,9 +206,9 @@
 | Jaeger Project Intro - Juraci Kröhling, Red Hat (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/27/jaeger-project-intro.pdf) | [Video](https://www.youtube.com/watch?v=D7XakRQaEk0) |
 | OpenStack SIG Intro – Chris Hoge, OpenStack Foundation, & David Lyle, Intel (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ea/SIG-OpenStack%20Update.pdf) | [Video](https://www.youtube.com/watch?v=_A7G5cpU4Xw)|
 | Prometheus Project Intro – Julius Volz, Prometheus (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/03/Monitoring%2C%20the%20Prometheus%20Way.pdf) | [Video](https://www.youtube.com/watch?v=sYMTY-SciUQ)|
-| TUF / Notary Project Intro – David Lawrence, Docker, & Justin Cappos, NYU, TUF (Any Skill Level) | [Slides] | [Video](https://www.youtube.com/watch?v=rHMOC6UH1Pg)|
+| TUF / Notary Project Intro – David Lawrence, Docker, & Justin Cappos, NYU, TUF (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=rHMOC6UH1Pg)|
 | Cloud Native Landscape Intro – Dan Kohn, Cloud Native Computing Foundation (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=_CFgSksTT54&t=3s) | 
-| SIG Instrumentation Intro – Frederic Branczyk, CoreOS, & Piotr Szczesniak, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/21/SIG%20Instrumentation%20Intro.pdf) | Video](https://www.youtube.com/watch?v=Qly7CMHmrV4) |
+| SIG Instrumentation Intro – Frederic Branczyk, CoreOS, & Piotr Szczesniak, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/21/SIG%20Instrumentation%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=Qly7CMHmrV4) |
 | SIG Service-Catalog Intro – Michael Kibbe, Google, Morgan Bauer & Doug Davis, IBM (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4a/Kubecon%20Intro%20Slides%20SIG%20Service%20Catalog.pdf) | [Video](https://www.youtube.com/watch?v=2tycz5_Bp-E&t=66s) |
 | Rook Project Intro – Bassam Tabbara, Tony Allen & Jared Watts, Upbound (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/d2/Rook%20Project%20Intro.pdf)| [Video](https://www.youtube.com/watch?v=To1ldyb_9NA)|
 | SIG Autoscaling Intro – Marcin Wielgus, Google, & Solly Ross, Red Hat (Any Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=oJyjW8Vz314)|
@@ -269,8 +269,8 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) |
-| Building ML Products With Kubeflow - Jeremy Lewi, Google & Stephan Fabel, Canonical (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/c2/Building%20ML%20Products%20With%20Kubeflow%20%28Kubecon%202018%29%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=sC8Ce9vUggo)  |
+| Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf)|[Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE)|
+| Building ML Products With Kubeflow - Jeremy Lewi, Google & Stephan Fabel, Canonical (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/c2/Building%20ML%20Products%20With%20Kubeflow%20%28Kubecon%202018%29%20%281%29.pdf)| [Video](https://www.youtube.com/watch?v=sC8Ce9vUggo)|
 | The Path to GPU as a Service in Kubernetes - Renaud Gaubert, NVIDIA (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf) | c(https://www.youtube.com/watch?v=8JGduez-8S0)|
 | Bringing Your Data Pipeline into The Machine Learning Era - Chris Gaun & Jörg Schad, Mesosphere (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=f_-3rQoudnc) |
 | Compliant Data Management and Machine Learning on Kubernetes - Daniel Whitenack, Pachyderm (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/a1/KubeCon_EU_2018%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=eOzl-LFqYFM) |
