@@ -267,8 +267,8 @@
 
 ## Machine Learning & Data
 
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
+| Topic        | Presentation    | Video |
+| ------------- |:-------------:|:-----:|
 | Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf)|[Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE)|
 | Building ML Products With Kubeflow - Jeremy Lewi, Google & Stephan Fabel, Canonical (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/c2/Building%20ML%20Products%20With%20Kubeflow%20%28Kubecon%202018%29%20%281%29.pdf)| [Video](https://www.youtube.com/watch?v=sC8Ce9vUggo)|
 | The Path to GPU as a Service in Kubernetes - Renaud Gaubert, NVIDIA (Intermediate Skill Level) (Slides Attached) | [Slides](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf) | c(https://www.youtube.com/watch?v=8JGduez-8S0)|
@@ -296,8 +296,8 @@
 
 ## Observability  
 
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
+| Topic        | Presentation    | Video |
+| ------------- |:-------------:|:-----:|
 | A Survey of the OSS Tracing Ecosystem - Ben Sigelman & Ted Young, LightStep (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/96/A%20Survey%20of%20the%20OSS%20Tracing%20Ecosystem%20%28Kubecon%20EMEA%202018%29.pdf) | [Video](https://www.youtube.com/watch?v=-zLPPYYH_F8) |
 | Practical and Useful Latency Analysis using Istio and OpenCenus - Varun Talwar, Stealth Startup & Morgan McLean, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/ae/Kubecon-EU-OpenCensus-Istio%20Session.pdf) | [Video](https://www.youtube.com/watch?v=Nxqd7y78h7Q) |
 | Prometheus for Devs - Hubert Ströbitzer, Freelancer (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/3b/prometheus_for_devs.pdf)| [Video](https://www.youtube.com/watch?v=ZHCSmYvA_sg) |
@@ -383,8 +383,8 @@
 
 ## Service mesh
 
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
+| Topic        | Presentation    | Video |
+| ------------- |:-------------:|:-----:|
 | Introduction to Istio Configuration - Joy Zhang, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/30/Introduction%20to%20Istio%20Configuration%20--%20Kubecon%20EU%202018%20%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=x1Tyw8dFKjI) |
 | Evolving Systems Design: From Unreliable rpc to Resilience with Linkerd - Edward Wilde, Form3 (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/18/form3-kubecon-linkerd-slides.pdf) | [Video](https://www.youtube.com/watch?v=2EqkvPqk7JU) |
 | Replacing NGINX with Envoy in a Traffic Control System - Mark McBride, Turbine Labs, Inc (Advanced Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/a6/Turbine%20Labs_Move%20to%20Envoy%20Deck_V2.pdf) | [Video](https://www.youtube.com/watch?v=MO_0bwcNEZY) | 
