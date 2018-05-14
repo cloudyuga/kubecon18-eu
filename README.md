@@ -1,10 +1,5 @@
 # KubeCon'18 EU Presentations and Videos
 
-## Machine Learning & Data
-
-| Topic        | Presentation    | Video |
-| ------------- |:-------------:|:-----:|
-| Building a Go AI with Kubernetes and TensorFlow - Andrew Jackson & Josh Hoak, Google (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/80/minigo-slides-v3C.pdf) | [Video](https://www.youtube.com/watch?v=OZ_Qmklc4zE) |
 
 ## Keynote
 
