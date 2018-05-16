@@ -66,7 +66,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/d7/kubecon-emperors-new-shoes.pdf) |Video |
+| The Enterprise’s New Shoes - The Journey of Adidas to a Global Kubernetes Rollout -Daniel Eichten, Adidas AG & Oliver Thylmann, Giant Swarm GmbH (Any Skill Level) (Slides Attached)| [Slides](https://schd.ws/hosted_files/kccnceu18/d7/kubecon-emperors-new-shoes.pdf) |[Video](https://www.youtube.com/watch?v=dwDhHt1Llb8)|
 | Kubernetes on Supporting $8 Trillion Card Payments in China - Xin Zhang & Deyuan Deng, Caicloud (Any Skill Level) | [Slides]()|[Video](https://www.youtube.com/watch?v=OS5DKWffn9s)|
 | Kubernetes and Taxes: Lessons Learned at the Norwegian Tax Administration - A Production Case Study - Bjarte S. Karlsen, The Norwegian Tax Administration (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6f/Kubernetes%20and%20Taxes.pdf)|[Video](https://www.youtube.com/watch?v=VZbDJXUwLbg)|
 | Write Less Code, Use More Tools: How we Orchestrate 7M+ Builds/Month with Kubernetes + Nomad - Danielle Tomlinson, CircleCI (Any Skill Level) |[Slides]()|[Video](https://www.youtube.com/watch?v=b8NQO_vFAYo)|
@@ -121,7 +121,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| AWS / kops Deep Dive / Hacking Session – Justin Santa Barbara, FathomDB (Intermediate Skill Level)  | Slides | Video |
+| AWS / kops Deep Dive / Hacking Session – Justin Santa Barbara, FathomDB (Intermediate Skill Level)  | Slides | [Video](https://www.youtube.com/watch?v=HCESuFSSTb8) |
 | CNCF: CloudEvents Working Group F2F – Doug Davis, IBM (Intermediate Skill Level) | Slides | Video |
 | SIG Apps Deep Dive – Janet Kuo & Kenneth Owens, Google (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=nN3MuZ6_WsA)|
 | Jaeger Project Deep Dive - Juraci Kröhling, Red Hat (Intermediate Skill Level) |  [Slides](https://schd.ws/hosted_files/kccnceu18/18/jaeger-deep-dive.pdf) | [Video](https://www.youtube.com/watch?v=tFZAHWl8y_I)|
@@ -131,7 +131,7 @@
 | Resource Management WG Deep Dive – Vishnu Kannan, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=Oielqj7wIng) 
 | SIG Service-Catalog Deep Dive – Michael Kibbe, Google; Morgan Bauer & Doug Davis, IBM (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/49/SvcCat-DeepDive-Kibbe-Bauer.pdf) |[Video](https://www.youtube.com/watch?v=knKSSKMkdHY)|
 | SPIFFE Deep Dive - Neel Shah, VMware; Andrew Jessup & Emiliano Berenbaum, Scytale, Inc., (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/36/cncf-eu-spiffe-deep_dive-kerberos_attestor.pdf)|[Video](https://www.youtube.com/watch?v=sXwFB34BBrM)|
-| Cloud Native Landscape Deep Dive – Dan Kohn, Cloud Native Computing Foundation (Intermediate Skill Level) | [Slides]()| Video |
+| Cloud Native Landscape Deep Dive – Dan Kohn, Cloud Native Computing Foundation (Intermediate Skill Level) | [Slides]()| [Video](https://www.youtube.com/watch?v=_s9Ho5pylB4) |
 | Kubeflow Deep Dive – David Aronchick & Jeremy Lewi, Google (Intermediate Skill Level) |[Slides](https://schd.ws/hosted_files/kccnceu18/d4/Kubeflow_Deep_Dive.pdf)| [Video](https://www.youtube.com/watch?v=86GD1VzSnks)
 | SIG Contributor Experience Deep Dive – Paris Pittman, Google & Tim Pepper, VMware (Intermediate Skill Level) |[Slides]() |[Video](https://schd.ws/hosted_files/kccnceu18/65/KubeCon%20EU%202018%20SIG-ContribX%20Deep%20Dive_%20Developer%20Guide.pdf) |
 | Storage WG Deep Dive – Ben Hindman, Mesosphere; Clint Kitson, VMware & Quinton Hoole, Huawei (Intermediate Skill Level) |Slides|[Video](https://www.youtube.com/watch?v=Nks3qOx8YcI)|
@@ -158,7 +158,7 @@
 | SIG Cluster Lifecycle: kubeadm Deep Dive – Alexander Kanevskiy, Intel; Timothy St. Clair, Heptio; Luke Marsden, dotmesh (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/87/kubeadm%20deep%20dive%20-%2020180504.pdf) | [Video](https://www.youtube.com/watch?v=3w5sZSxh4RI) |
 | containerd Deep Dive – Stephen Day, Docker (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6e/containerd%20deep%20dive%20-%202018%20KubeCon%20EU.pdf) | [Video](https://www.youtube.com/watch?v=3AynH3c0F8M) |
 | CoreDNS Deep Dive – Miek Gieben, Google (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=ZnW3k6m5AY8) |
-| Kubernetes Conformance Deep Dive – William Denniss, Google; Srinivas R Brahmaroutu, Doug Davis & Brad Topol, IBM (Intermediate Skill Level) | Slides | Video |
+| Kubernetes Conformance Deep Dive – William Denniss, Google; Srinivas R Brahmaroutu, Doug Davis & Brad Topol, IBM (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=LAGhshWmJAs) |
 | OpenStack SIG Deep Dive – Chris Hoge, OpenStack Foundation & David Lyle, Intel (Intermediate Skill Level) | Slides | [Video](https://www.youtube.com/watch?v=l03heU_uG1s) |
 | Source2Image Deep Dive – Ben Parees, Red Hat & Matt Moore, Google (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/9e/KubeCon%20Build%20Deep%20Dive%20Session%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=AUx2e3BqBU8) |
 | Fluentd / Fluent Bit Deep Dive – Eduardo Silva & Masahiro Nakagawa, Treasure Data (Intermediate Skill Level) | [Slides]() | [Video](https://www.youtube.com/watch?v=TqW-b60AiNk) |
