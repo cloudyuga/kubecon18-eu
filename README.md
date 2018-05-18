@@ -5,7 +5,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Keynote: How Good Is Our Code? - Dan Kohn, Executive Director, Cloud Native Computing Foundation | Slides |[Video](https://www.youtube.com/watch?v=S4SKOHmVD1U&t=26s) |
+| Keynote: How Good Is Our Code? - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://docs.google.com/presentation/d/1ANqkYOILKmyU5M3fMjMbH9JfW7M87L3QaaOktEQGa7w/) |[Video](https://www.youtube.com/watch?v=S4SKOHmVD1U&t=26s) |
 | Keynote: CNCF Project Update - Liz Rice, Technology Evangelist, Aqua Security; Sugu Sougoumarane, CTO, PlanetScale Data; Colin Sullivan, Product Manager, Synadia Communications, Inc. & Andrew Jessup, Co-founder...| [Slides](https://schd.ws/hosted_files/kccnceu18/dc/CNCF%20Project%20Update%20.pdf)|[Video](https://www.youtube.com/watch?v=C1kwY0N4PUk)|
 | Keynote: Re-thinking Networking for Microservices - Lew Tucker, VP/CTO Cloud Computing, Cisco Systems, Inc. | [Slides](https://schd.ws/hosted_files/kccnceu18/cb/LEW%20TUCKER%20.pdf)|[Video](https://www.youtube.com/watch?v=Qk2ZdHnHh0Y&t=20s)|
 | Keynote: CERN Experiences with Multi-Cloud Federated Kubernetes - Ricardo Rocha, Staff Member, CERN & Clenimar Filemon, Software Engineer, Federal University of Campina Grande | [Slides](https://schd.ws/hosted_files/kccnceu18/d0/CERN.pdf)| [Video](https://www.youtube.com/watch?v=2PRGUOxL36M&t=25s)|
