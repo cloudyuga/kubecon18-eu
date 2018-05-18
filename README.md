@@ -294,6 +294,17 @@
 | Global Container Networks on Kubernetes at DigitalOcean - Andrew Sy Kim, DigitalOcean (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/15/Global%20Container%20Networks%20-%20KubeCON%20EU%202018.pdf)| [Video](https://www.youtube.com/watch?v=tHAkey-sZ9g) | 
 | Cloud Native Networking for Containers in AWS using CNI Plugins - Anirudh Aithal, Amazon Web Services (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/6f/KC_CNC_EU_2018_CNI_AWS.pdf) | [Video](https://www.youtube.com/watch?v=tsc17ZuV5iU) |
 
+## New Contributors
+| Topic        | Presentation    | Video |
+| ------------- |:-------------:|:-----:|
+| New Contributor Workshop, Part 1 | Slides | [Video](https://www.youtube.com/watch?v=obyAKf39H38) |
+| New Contributor Workshop, Part 2 | Slides | [Video](https://www.youtube.com/watch?v=PERboIaNdcI) |
+| New Contributor Workshop, Part 3 | Slides | [Video](https://www.youtube.com/watch?v=Z3pLlp6nckI) |
+| SIG Contributor Experience Intro - Paris Pittman, Google & Elsie Phillips, Coreos (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/09/ContribEx%20KubeCon%20Update.pdf) | [Video](https://www.youtube.com/watch?v=e3VKszwIokk&t) |
+| SIG Contributor Experience Deep Dive – Paris Pittman, Google & Tim Pepper, VMware (Intermediate Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/65/KubeCon%20EU%202018%20SIG-ContribX%20Deep%20Dive_%20Developer%20Guide.pdf) | [Video](https://www.youtube.com/watch?v=2oPHolzhZHc) |
+| Growing in Your Contributor Role – Insights From a k8s Newcomer Working Within the Release Process - Tim Pepper, VMware (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/3e/KubeConEU2018%20Growing%20in%20Your%20Contributor%20Role.pdf) | [Video](https://www.youtube.com/watch?v=goAph8A20gQ) |
+|  Scaling Non-Traditional Contributor Mentoring Initiatives - Paris Pittman, Google (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/b0/KubeCon%20Mentoring%20Talk.pdf) | [Video](https://www.youtube.com/watch?v=7-uqMbBd15k) |
+
 ## Observability  
 
 | Topic        | Presentation    | Video |
