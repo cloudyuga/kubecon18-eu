@@ -98,6 +98,7 @@
 | Container Troubleshooting Workshop with Sysdig Docker and Kubernetes Workshop Hands-on with Istio on Kubernetes Kubernetes Workshop with VMware | Slides | Video |
 | Containers, Kubernetes and OpenShift Hands-on Training: Afternoon Workshop | Slides | Video |
 | Red Hat OpenShift Commons Machine Learning Reception | Slides | Video |
+| OpenSDS Mini-Summit | [Slides](https://github.com/opensds/presentations/tree/master/mini-summit-kubecon-copenhagen-2018) | Video|
 
 ## Customizing & Extending Kubernetes
 
