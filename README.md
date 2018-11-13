@@ -35,7 +35,6 @@
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Diffy - Predicting and Preempting Regressions in Services - Puneet Khanduri & Prashant Khanduri, Diffy (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=adjhYJeX3c4&t=287s) |
-| How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo) |
 | How We Built Contour, and What You Can Learn From Our Experience - Dave Cheney, Heptio (Any Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/61/Contour%20KubeCon%20EU%202018%20%28final%29.pdf) |[Video](https://www.youtube.com/watch?v=4usXJE0EwHo)|
 | Habitat Builder: Cloud Native Application Automation - Elliott Davis & Fletcher Nichol, Chef.io (Habitat.sh) (Beginner Skill Level) | [Slides](https://schd.ws/hosted_files/kccnceu18/4f/Kubecon-2018-Habitat-Builder.pdf) |[Video](https://www.youtube.com/watch?v=5idV8kbyN8M)|
 | Why Do I Need Kubernetes When I Already Have Cloud Foundry? - Sanjay Patil, SAP (Beginner Skill Level) | Slides |[Video](https://www.youtube.com/watch?v=KvfYtca74EI)|
